@@ -1,0 +1,330 @@
+[
+    {
+      "image": "https://www.rtoexam.com/themes/images/img1.png",
+      "detail": "Stop"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img2.png",
+      "detail": "Keep left"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img3.png",
+      "detail": "Give way"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img4.png",
+      "detail": "No entry"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img5.png",
+      "detail": "Sharp curve to the right"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img6.png",
+      "detail": "Pedestrian crossing"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img7.png",
+      "detail": "Parking on the right allowed"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img8.png",
+      "detail": "U-turn prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img9.png",
+      "detail": "Horn prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img10.png",
+      "detail": "Narrow bridge ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img11.png",
+      "detail": "End of speed restriction"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img12.png",
+      "detail": "Narrow road ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img13.png",
+      "detail": "Level crossing Guarded"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img14.png",
+      "detail": "Overtaking prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img15.png",
+      "detail": "Cross road ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img16.png",
+      "detail": "Compulsory go ahead or turn left"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img17.png",
+      "detail": "Sound horn compulsory"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img18.png",
+      "detail": "Road to the right in front"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img19.png",
+      "detail": "No Stopping or Parking"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img20.png",
+      "detail": "Compulsory ahead only"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img21.png",
+      "detail": "All Motor Vehicles Prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img22.png",
+      "detail": "Trucks prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img23.png",
+      "detail": "Bullock cart prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img24.png",
+      "detail": "Pedestrians prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img25.png",
+      "detail": "Left turn prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img26.png",
+      "detail": "Drive the vehicle not exceeding 50 km/hr"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img27.png",
+      "detail": "Compulsory ahead or turn right"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img28.png",
+      "detail": "Slow down and proceed with caution"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img29.png",
+      "detail": "Left hand curve"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img30.png",
+      "detail": "Right hair pin bend"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img31.png",
+      "detail": "Left hair pin bend"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img32.png",
+      "detail": "Right reverse bend"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img33.png",
+      "detail": "Left reverse bend"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img34.png",
+      "detail": "Y-inter section"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img35.png",
+      "detail": "Axle load limit"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img36.png",
+      "detail": "Compulsory Turn right ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img37.png",
+      "detail": "Round about"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img38.png",
+      "detail": "Dangerous dip"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img39.png",
+      "detail": "Y-inter section right"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img40.png",
+      "detail": "Y-inter section left"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img41.png",
+      "detail": "Slippery road"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img42.png",
+      "detail": "Loose gravel"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img43.png",
+      "detail": "Cycle crossing"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img44.png",
+      "detail": "Possibility of animal on the road"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img45.png",
+      "detail": "School ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img46.png",
+      "detail": "Men at work"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img47.png",
+      "detail": "Falling rocks"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img48.png",
+      "detail": "Light Refreshment ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img49.png",
+      "detail": "Steep ascend"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img50.png",
+      "detail": "Steep descend"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img51.png",
+      "detail": "Road widens ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img52.png",
+      "detail": "Gap in median"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img53.png",
+      "detail": "Hump or rough road"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img54.png",
+      "detail": "Barrier ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img55.png",
+      "detail": "No through side road"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img56.png",
+      "detail": "Ferry"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img57.png",
+      "detail": "Parking both sides"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img58.png",
+      "detail": "Parking lot \u2013 scooters and motor cycle"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img59.png",
+      "detail": "Parking lot \u2013 auto rickshaws"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img60.png",
+      "detail": "Parking lot \u2013 Taxis"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img61.png",
+      "detail": "Petrol pump"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img62.png",
+      "detail": "Change the line with caution"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img63.png",
+      "detail": "Intends to turn right"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img64.png",
+      "detail": "Intends to turn left"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img65.png",
+      "detail": "Intends to slow down the vehicle"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img66.png",
+      "detail": "Intends to stop the vehicle"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img67.png",
+      "detail": "Allow to pass the vehicle from behind"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img68.png",
+      "detail": "can change track if required"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img69.png",
+      "detail": "No Parking"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img70.png",
+      "detail": "Compulsory turn left"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img71.png",
+      "detail": "Hospital"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img72.png",
+      "detail": "Right turn prohibited"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img73.png",
+      "detail": "Compulsory turn right"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img74.png",
+      "detail": "Prohibited in both direction"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img75.png",
+      "detail": "Side road left"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img76.png",
+      "detail": "Staggered Intersections"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img77.png",
+      "detail": "Major road ahead"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img78.png",
+      "detail": "Guarded railway crossing"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img79.png",
+      "detail": "Resting place"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img80.png",
+      "detail": "No through road"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img81.png",
+      "detail": "One-way sign"
+    },
+    {
+      "image": "https://www.rtoexam.com/themes/images/img82.png",
+      "detail": "Crossing yellow line is prohibited"
+    }
+  ]

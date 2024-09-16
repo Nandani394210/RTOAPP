@@ -1,0 +1,4543 @@
+[
+  {
+    "question": "While turning to the left, the driver of a two wheeler shall",
+    "image": null,
+    "option_a": "Extend his left hand  towards left",
+    "option_b": "Not show hand signal",
+    "option_c": "Show left turn signal with his right hand or signal by indicator",
+    "ans": "Show left turn signal with his right hand or signal by indicator"
+  },
+  {
+    "question": "How driver can prevent fatigue while driving?",
+    "image": null,
+    "option_a": "By drinking alcohol",
+    "option_b": "By resting during the journey at every  two hours",
+    "option_c": "By listening to the music",
+    "ans": "By resting during the journey at every  two hours"
+  },
+  {
+    "question": "While changing lanes, you should",
+    "image": null,
+    "option_a": "Blow horn and change lane",
+    "option_b": "Use indicator and change lane",
+    "option_c": "No need to use indicator, just look in the mirror and change lane",
+    "ans": "Use indicator and change lane"
+  },
+  {
+    "question": "While parking the vehicle",
+    "image": null,
+    "option_a": "Vehicle should  be engaged in gear",
+    "option_b": "Parking brake should  be applied",
+    "option_c": "Only hazard (parking) light should be applied",
+    "ans": "Parking brake should  be applied"
+  },
+  {
+    "question": "You want to overtake a vehicle near a hospital. You...",
+    "image": null,
+    "option_a": "will blow the horn continuously",
+    "option_b": "will not blow horn",
+    "option_c": "blow the horn only intermittently",
+    "ans": "will not blow horn"
+  },
+  {
+    "question": "In case of an accident, if the victim is bleeding under the helmet, you should",
+    "image": null,
+    "option_a": "not try to remove the helmet but call ambulance",
+    "option_b": "remove the helmet  to check  the injury",
+    "option_c": "remove the helmet and call ambulance",
+    "ans": "not try to remove the helmet but call ambulance"
+  },
+  {
+    "question": "Driving a vehicle without the brake light is",
+    "image": null,
+    "option_a": "Valid  for  two wheeler",
+    "option_b": "An offence",
+    "option_c": "Valid for trucks only",
+    "ans": "An offence"
+  },
+  {
+    "question": "A 10 year old child sitting in the front seat of the car should buckle the seat belt?",
+    "image": null,
+    "option_a": "Not  necessary for children",
+    "option_b": "It is Compulsory",
+    "option_c": "Valid only on rear seats",
+    "ans": "It is Compulsory"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img5.png",
+    "option_a": "Right turn prohibited",
+    "option_b": "Sharp curve to the right",
+    "option_c": "U-turn prohibited",
+    "ans": "Sharp curve to the right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img34.png",
+    "option_a": "Y-inter section left",
+    "option_b": "Y-inter section right",
+    "option_c": "Y-inter section",
+    "ans": "Y-inter section"
+  },
+  {
+    "question": "Validity of learner's licence",
+    "image": null,
+    "option_a": "Till the driving licence is",
+    "option_b": "6  months from the date of issue",
+    "option_c": "30 days",
+    "ans": "6  months from the date of issue"
+  },
+  {
+    "question": "You can save fuel by",
+    "image": null,
+    "option_a": "Proper tuning of the vehicle",
+    "option_b": "Proper cleaning of the vehicle",
+    "option_c": "Making excessive use of Clutch while driving",
+    "ans": "Proper tuning of the vehicle"
+  },
+  {
+    "question": "You hold a learners licence for motor cycle...",
+    "image": null,
+    "option_a": "You will drive when the traffic is less",
+    "option_b": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies",
+    "option_c": "You will carry any other person on the motor cycle",
+    "ans": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies"
+  },
+  {
+    "question": "You have fitted LPG / CNG fitment in your car from an approved fitment centre Is it compulsory to get it registered at RTO?",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "No need as it is done at approved centre",
+    "ans": "Yes"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "Parking is prohibited in the following place",
+    "image": null,
+    "option_a": "blocking a fire hydrant",
+    "option_b": "near a  public well",
+    "option_c": "left side of the road",
+    "ans": "blocking a fire hydrant"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img50.png",
+    "option_a": "Steep ascend",
+    "option_b": "Steep descend",
+    "option_c": "Slippery road",
+    "ans": "Steep descend"
+  },
+  {
+    "question": "While you are driving with the head light in high beam during night, a vehicle approaches from opposite direction, you will",
+    "image": null,
+    "option_a": "Proceed keeping to the left",
+    "option_b": "Put the head light in dim and bright alternatively, several times",
+    "option_c": "Dim the head light till the vehicle passed",
+    "ans": "Dim the head light till the vehicle passed"
+  },
+  {
+    "question": "You can overtake a vehicle through the left side, if",
+    "image": null,
+    "option_a": "The driver of that vehicle indicates his intention to turn  right and proceeds to the center of the road",
+    "option_b": "There is sufficient space on the left side",
+    "option_c": "The vehicle moves slowly",
+    "ans": "The driver of that vehicle indicates his intention to turn  right and proceeds to the center of the road"
+  },
+  {
+    "question": "When a vehicle is parked on the road side during night",
+    "image": null,
+    "option_a": "The vehicle should  be locked",
+    "option_b": "The person having licence to drive such a vehicle should be  in",
+    "option_c": "The parking light shall remain lit",
+    "ans": "The parking light shall remain lit"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img70.png",
+    "option_a": "Keep left",
+    "option_b": "There is no road to the left",
+    "option_c": "Compulsory turn left",
+    "ans": "Compulsory turn left"
+  },
+  {
+    "question": "Motor cycle can be driven at the speed of 50 km/hr",
+    "image": null,
+    "option_a": "During night",
+    "option_b": "During day time",
+    "option_c": "Any time",
+    "ans": "Any time"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img77.png",
+    "option_a": "Cross road ahead",
+    "option_b": "Major road ahead",
+    "option_c": "First aid",
+    "ans": "Major road ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img40.png",
+    "option_a": "Turn left",
+    "option_b": "Turn right",
+    "option_c": "Y-inter section left",
+    "ans": "Y-inter section left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img6.png",
+    "option_a": "Pedestrian crossing",
+    "option_b": "Pedestrians may enter",
+    "option_c": "Pedestrians prohibited",
+    "ans": "Pedestrian crossing"
+  },
+  {
+    "question": "You can talk on mobile while driving any vehicle",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "You can talk after slowing down your vehicle",
+    "ans": "No"
+  },
+  {
+    "question": "Which traffic light should lit after Green at Junction",
+    "image": null,
+    "option_a": "Red",
+    "option_b": "Blue",
+    "option_c": "Yellow",
+    "ans": "Yellow"
+  },
+  {
+    "question": "Using unregistered vehicle in public place is",
+    "image": null,
+    "option_a": "Illegal",
+    "option_b": "Legal",
+    "option_c": "Legal if there is urgency",
+    "ans": "Illegal"
+  },
+  {
+    "question": "The driver of a Auto Rickshaw refusing the offer for journey for the reason that the distance is short",
+    "image": null,
+    "option_a": "can attract suspension/ cancellation of driving licence",
+    "option_b": "only  fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img33.png",
+    "option_a": "Right reverse bend",
+    "option_b": "Left reverse bend",
+    "option_c": "Turn left and go ahead",
+    "ans": "Left reverse bend"
+  },
+  {
+    "question": "Using unregistered vehicle in public place is",
+    "image": null,
+    "option_a": "Illegal",
+    "option_b": "Legal",
+    "option_c": "Legal if there is urgency",
+    "ans": "Illegal"
+  },
+  {
+    "question": "Accordingly to law, a person driving a motor car shall",
+    "image": null,
+    "option_a": "wear sunglasses",
+    "option_b": "wear seat belt",
+    "option_c": "wear cap",
+    "ans": "wear seat belt"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "Fog lamps are used",
+    "image": null,
+    "option_a": "During night",
+    "option_b": "When there is fog",
+    "option_c": "When the opposite vehicle is not using dim light",
+    "ans": "When there is fog"
+  },
+  {
+    "question": "The driver of the vehicle in front has not given signal for allowing over taking",
+    "image": null,
+    "option_a": "We can overtake",
+    "option_b": "We shall not overtake",
+    "option_c": "We can overtake blowing horn",
+    "ans": "We shall not overtake"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img73.png",
+    "option_a": "Road to the right in front",
+    "option_b": "Compulsory turn right",
+    "option_c": "Turn to right prohibited",
+    "ans": "Compulsory turn right"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from a serious back injury, you should,",
+    "image": null,
+    "option_a": "Lift the victim and take to a safe place",
+    "option_b": "not move the victim and try to warn other traffic about the accident",
+    "option_c": "raise his legs to check the injury",
+    "ans": "not move the victim and try to warn other traffic about the accident"
+  },
+  {
+    "question": "When an ambulance is approaching",
+    "image": null,
+    "option_a": "allow passage if there is no vehicles from front side",
+    "option_b": "no preference need be given",
+    "option_c": "the driver shall allow free passage by drawing to the left side of the road",
+    "ans": "the driver shall allow free passage by drawing to the left side of the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img52.png",
+    "option_a": "Drainage in middle",
+    "option_b": "Bridge ahead",
+    "option_c": "Gap in median",
+    "ans": "Gap in median"
+  },
+  {
+    "question": "When should you use mobile phone?",
+    "image": null,
+    "option_a": "when the vehicle is running at very  slow speed",
+    "option_b": "when the vehicle is running at medium speed on express highway",
+    "option_c": "when   the vehicle  is parked a side",
+    "ans": "when   the vehicle  is parked a side"
+  },
+  {
+    "question": "How does Headrest of the seat help?",
+    "image": null,
+    "option_a": "You can relax while driving",
+    "option_b": "Protects you from neck injury in case of accident",
+    "option_c": "Seat looks beautiful with headrest",
+    "ans": "Protects you from neck injury in case of accident"
+  },
+  {
+    "question": "Red traffic light indicates",
+    "image": null,
+    "option_a": "vehicle can proceed with caution",
+    "option_b": "stop the vehicle",
+    "option_c": "slow down",
+    "ans": "stop the vehicle"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img75.png",
+    "option_a": "Side road left",
+    "option_b": "Turn left",
+    "option_c": "No left turn",
+    "ans": "Side road left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img21.png",
+    "option_a": "All Motor Vehicles Prohibited",
+    "option_b": "no entry for cars and motor cycles",
+    "option_c": "Entry allowed for cars and motor vehicles",
+    "ans": "All Motor Vehicles Prohibited"
+  },
+  {
+    "question": "How long driver can drive the vehicle after the expiry of his driving licence?",
+    "image": null,
+    "option_a": "30 days",
+    "option_b": "Not a single day",
+    "option_c": "60 days",
+    "ans": "30 days"
+  },
+  {
+    "question": "Maximum speed allowed for motor cars",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "70 km/hr",
+    "option_c": "50 km/hr",
+    "ans": "No limit"
+  },
+  {
+    "question": "While you are approaching an intersection where the yellow signal light is blinking, you should",
+    "image": null,
+    "option_a": "As there is no restriction, proceed at the same speed",
+    "option_b": "Stop the vehicle and wait for the green light to appear",
+    "option_c": "Slow down the vehicle and proceed only after ensuring that it is safe to move",
+    "ans": "Slow down the vehicle and proceed only after ensuring that it is safe to move"
+  },
+  {
+    "question": "When a vehicle is parked on the road side during night",
+    "image": null,
+    "option_a": "The vehicle should  be locked",
+    "option_b": "The person having licence to drive such a vehicle should be  in",
+    "option_c": "The parking light shall remain lit",
+    "ans": "The parking light shall remain lit"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img48.png",
+    "option_a": "Bridge ahead",
+    "option_b": "Ferry",
+    "option_c": "Light Refreshment ahead",
+    "ans": "Light Refreshment ahead"
+  },
+  {
+    "question": "Motor cycle can be driven at the speed of 50 km/hr",
+    "image": null,
+    "option_a": "During night",
+    "option_b": "During day time",
+    "option_c": "Any time",
+    "ans": "Any time"
+  },
+  {
+    "question": "You can save fuel by",
+    "image": null,
+    "option_a": "Proper tuning of the vehicle",
+    "option_b": "Proper cleaning of the vehicle",
+    "option_c": "Making excessive use of Clutch while driving",
+    "ans": "Proper tuning of the vehicle"
+  },
+  {
+    "question": "In case of an accident, which knowledge can be helpful to you to save human life?",
+    "image": null,
+    "option_a": "Vehicle maintenance",
+    "option_b": "First-Aid",
+    "option_c": "Legal",
+    "ans": "First-Aid"
+  },
+  {
+    "question": "Where a blind person crosses the road holding White Cane",
+    "image": null,
+    "option_a": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+    "option_b": "Blow the horn and proceed",
+    "option_c": "Slow down and proceed with caution",
+    "ans": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img16.png",
+    "option_a": "May turn to left",
+    "option_b": "Compulsory go ahead or turn left",
+    "option_c": "Side road left",
+    "ans": "Compulsory go ahead or turn left"
+  },
+  {
+    "question": "The driver of a Auto Rickshaw refusing the offer for journey for the reason that the distance is short",
+    "image": null,
+    "option_a": "can attract suspension/ cancellation of driving licence",
+    "option_b": "only  fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img78.png",
+    "option_a": "Guarded railway crossing",
+    "option_b": "Unguarded railway crossing",
+    "option_c": "Unguarded railway crossing 200 mtrs Ahead",
+    "ans": "Guarded railway crossing"
+  },
+  {
+    "question": "Drinking alcohol and driving invites",
+    "image": null,
+    "option_a": "wrong judgement by driver",
+    "option_b": "reduced vision of a driver",
+    "option_c": "both",
+    "ans": "both"
+  },
+  {
+    "question": "Driver of a vehicle may overtake",
+    "image": null,
+    "option_a": "while driving down hill",
+    "option_b": "If the road is not sufficiently wide",
+    "option_c": "When the driver of the vehicle ahead shows the signal to overtake",
+    "ans": "When the driver of the vehicle ahead shows the signal to overtake"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img54.png",
+    "option_a": "Barrier ahead",
+    "option_b": "Railway cross ahead",
+    "option_c": "Weighbridge ahead",
+    "ans": "Barrier ahead"
+  },
+  {
+    "question": "You can save fuel by",
+    "image": null,
+    "option_a": "Proper tuning of the vehicle",
+    "option_b": "Proper cleaning of the vehicle",
+    "option_c": "Making excessive use of Clutch while driving",
+    "ans": "Proper tuning of the vehicle"
+  },
+  {
+    "question": "While parking the vehicle",
+    "image": null,
+    "option_a": "Vehicle should  be engaged in gear",
+    "option_b": "Parking brake should  be applied",
+    "option_c": "Only hazard (parking) light should be applied",
+    "ans": "Parking brake should  be applied"
+  },
+  {
+    "question": "Where a blind person crosses the road holding White Cane",
+    "image": null,
+    "option_a": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+    "option_b": "Blow the horn and proceed",
+    "option_c": "Slow down and proceed with caution",
+    "ans": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img29.png",
+    "option_a": "Left hand curve",
+    "option_b": "Left ascend",
+    "option_c": "Keep left",
+    "ans": "Left hand curve"
+  },
+  {
+    "question": "Blinking yellow traffic light means",
+    "image": null,
+    "option_a": "stop the vehicle till green light glows",
+    "option_b": "stop the vehicle and proceed if safe",
+    "option_c": "reduce speed and proceed safely",
+    "ans": "reduce speed and proceed safely"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "Free passage should be given to the following types of vehicles",
+    "image": null,
+    "option_a": "Small vehicles",
+    "option_b": "Ambulance and fire service vehicles",
+    "option_c": "Express, Super Express buses",
+    "ans": "Ambulance and fire service vehicles"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img30.png",
+    "option_a": "Right hair pin bend",
+    "option_b": "Right ascend and descend",
+    "option_c": "Right descends",
+    "ans": "Right hair pin bend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "Driving a vehicle without the silencer is",
+    "image": null,
+    "option_a": "An offence",
+    "option_b": "not an offence",
+    "option_c": "Valid for a change of sound",
+    "ans": "An offence"
+  },
+  {
+    "question": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should",
+    "image": null,
+    "option_a": "Sound horn and proceed",
+    "option_b": "Slow down, sound horn and pass",
+    "option_c": "Stop  the vehicle  and wait   till   the pedestrians cross  the  road and  then proceed",
+    "ans": "Stop  the vehicle  and wait   till   the pedestrians cross  the  road and  then proceed"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "Why tyre rotation is advisable in a vehicle?",
+    "image": null,
+    "option_a": "It maintains wheel balancing",
+    "option_b": "It maintains wheel alignment",
+    "option_c": "It avoids abnormal wear on the tyre",
+    "ans": "It avoids abnormal wear on the tyre"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img38.png",
+    "option_a": "Narrow road ahead",
+    "option_b": "Dangerous dip",
+    "option_c": "Ferry",
+    "ans": "Dangerous dip"
+  },
+  {
+    "question": "Fog lamps are used",
+    "image": null,
+    "option_a": "During night",
+    "option_b": "When there is fog",
+    "option_c": "When the opposite vehicle is not using dim light",
+    "ans": "When there is fog"
+  },
+  {
+    "question": "When school buses are stopped for picking up or dropping down students",
+    "image": null,
+    "option_a": "Blow horn and proceed",
+    "option_b": "proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+    "option_c": "No special care is required",
+    "ans": "proceed slowly and cautiously since there is chance of students suddenly crossing the road"
+  },
+  {
+    "question": "When an ambulance is approaching",
+    "image": null,
+    "option_a": "allow passage if there is no vehicles from front side",
+    "option_b": "no preference need be given",
+    "option_c": "the driver shall allow free passage by drawing to the left side of the road",
+    "ans": "the driver shall allow free passage by drawing to the left side of the road"
+  },
+  {
+    "question": "An area guarded with a ribbon in red & white colour indicates",
+    "image": null,
+    "option_a": "Road repairing work is going on",
+    "option_b": "Accident prone zone",
+    "option_c": "Check post ahead",
+    "ans": "Road repairing work is going on"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img60.png",
+    "option_a": "No entry for private cars",
+    "option_b": "Parking lot – Taxis",
+    "option_c": "Parking for police vehicles",
+    "ans": "Parking lot – Taxis"
+  },
+  {
+    "question": "Parking is prohibited in the following place",
+    "image": null,
+    "option_a": "blocking a fire hydrant",
+    "option_b": "near a  public well",
+    "option_c": "left side of the road",
+    "ans": "blocking a fire hydrant"
+  },
+  {
+    "question": "When your vehicle is being overtaken, you should",
+    "image": null,
+    "option_a": "Stop your vehicle and let the vehicle to overtake",
+    "option_b": "Reduce the speed of your vehicle",
+    "option_c": "Not obstruct the other vehicle from over taking",
+    "ans": "Reduce the speed of your vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img52.png",
+    "option_a": "Drainage in middle",
+    "option_b": "Bridge ahead",
+    "option_c": "Gap in median",
+    "ans": "Gap in median"
+  },
+  {
+    "question": "Red traffic light indicates",
+    "image": null,
+    "option_a": "vehicle can proceed with caution",
+    "option_b": "stop the vehicle",
+    "option_c": "slow down",
+    "ans": "stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img61.png",
+    "option_a": "Petrol pump",
+    "option_b": "Garage",
+    "option_c": "Air-filling facility",
+    "ans": "Petrol pump"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img8.png",
+    "option_a": "U-turn prohibited",
+    "option_b": "Right turn prohibited",
+    "option_c": "Overtaking through left prohibited",
+    "ans": "U-turn prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "The temperature gauge in the dash board of a car indicates the temperature of",
+    "image": null,
+    "option_a": "the weather Outside the car",
+    "option_b": "inside the car",
+    "option_c": "The engine",
+    "ans": "The engine"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img25.png",
+    "option_a": "Overtaking prohibited through the right side",
+    "option_b": "Turn left",
+    "option_c": "Left turn prohibited",
+    "ans": "Left turn prohibited"
+  },
+  {
+    "question": "Using unregistered vehicle in public place is",
+    "image": null,
+    "option_a": "Illegal",
+    "option_b": "Legal",
+    "option_c": "Legal if there is urgency",
+    "ans": "Illegal"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img12.png",
+    "option_a": "Narrow road ahead",
+    "option_b": "Narrow bridge ahead",
+    "option_c": "Roads on both sides ahead",
+    "ans": "Narrow road ahead"
+  },
+  {
+    "question": "When a vehicle is parked on the road side during night",
+    "image": null,
+    "option_a": "The vehicle should  be locked",
+    "option_b": "The person having licence to drive such a vehicle should be  in",
+    "option_c": "The parking light shall remain lit",
+    "ans": "The parking light shall remain lit"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img52.png",
+    "option_a": "Drainage in middle",
+    "option_b": "Bridge ahead",
+    "option_c": "Gap in median",
+    "ans": "Gap in median"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img65.png",
+    "option_a": "Intends to turn right",
+    "option_b": "Request to stop the vehicle coming from opposite direction",
+    "option_c": "Intends to slow down the vehicle",
+    "ans": "Intends to slow down the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img55.png",
+    "option_a": "No through side road",
+    "option_b": "Left turn",
+    "option_c": "Bridge ahead",
+    "ans": "No through side road"
+  },
+  {
+    "question": "While parking the vehicle",
+    "image": null,
+    "option_a": "Vehicle should  be engaged in gear",
+    "option_b": "Parking brake should  be applied",
+    "option_c": "Only hazard (parking) light should be applied",
+    "ans": "Parking brake should  be applied"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img38.png",
+    "option_a": "Narrow road ahead",
+    "option_b": "Dangerous dip",
+    "option_c": "Ferry",
+    "ans": "Dangerous dip"
+  },
+  {
+    "question": "The average pulse rate of an adult is",
+    "image": null,
+    "option_a": "50 per minute",
+    "option_b": "70 per minute",
+    "option_c": "100 per minute",
+    "ans": "70 per minute"
+  },
+  {
+    "question": "The colour of reverse light is",
+    "image": null,
+    "option_a": "Red",
+    "option_b": "White",
+    "option_c": "Orange",
+    "ans": "White"
+  },
+  {
+    "question": "Yellow continuous line marked at the middle of the road indicates",
+    "image": null,
+    "option_a": "Overtaking permitted",
+    "option_b": "Crossing yellow line is prohibited",
+    "option_c": "Driver can go on the other side of this lane",
+    "ans": "Crossing yellow line is prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img22.png",
+    "option_a": "Trucks prohibited",
+    "option_b": "Bus prohibited",
+    "option_c": "Heavy vehicles",
+    "ans": "Trucks prohibited"
+  },
+  {
+    "question": "When you reach an intersection where there is no signal light or police man, you will",
+    "image": null,
+    "option_a": "Give way to all traffic approaching the intersection from other roads",
+    "option_b": "Give proper signal, sound the horn and proceed",
+    "option_c": "Give way to the traffic approaching the intersection from your right side and proceed",
+    "ans": "Give way to the traffic approaching the intersection from your right side and proceed"
+  },
+  {
+    "question": "Maximum permissible speed of a motor cycle",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "50 km/hr",
+    "option_c": "60 km/hr",
+    "ans": "50 km/hr"
+  },
+  {
+    "question": "You hold a learners licence for motor cycle...",
+    "image": null,
+    "option_a": "You will drive when the traffic is less",
+    "option_b": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies",
+    "option_c": "You will carry any other person on the motor cycle",
+    "ans": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img9.png",
+    "option_a": "Horn prohibited",
+    "option_b": "Compulsory sound horn",
+    "option_c": "May sound horn",
+    "ans": "Horn prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img47.png",
+    "option_a": "Rough road",
+    "option_b": "Slippery road",
+    "option_c": "Falling rocks",
+    "ans": "Falling rocks"
+  },
+  {
+    "question": "While turning left you should",
+    "image": null,
+    "option_a": "Show the left turn signal, drive to the center and turn to the left",
+    "option_b": "Sound horn and turn to the left",
+    "option_c": "Show the left turn signal, keep to the left side of the road and turn to the left",
+    "ans": "Show the left turn signal, keep to the left side of the road and turn to the left"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "When the vehicle behind has begun to overtake our vehicle",
+    "image": null,
+    "option_a": "we shall not overtake another vehicle",
+    "option_b": "we can over take another vehicle",
+    "option_c": "we can overtake another vehicle blowing horn",
+    "ans": "we shall not overtake another vehicle"
+  },
+  {
+    "question": "Driving a vehicle without the silencer is",
+    "image": null,
+    "option_a": "An offence",
+    "option_b": "not an offence",
+    "option_c": "Valid for a change of sound",
+    "ans": "An offence"
+  },
+  {
+    "question": "Driver of a motor vehicle shall drive through",
+    "image": null,
+    "option_a": "The right side of the road",
+    "option_b": "The left side of the road",
+    "option_c": "The center of the road",
+    "ans": "The left side of the road"
+  },
+  {
+    "question": "Validity of vehicle insurance is",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 years",
+    "ans": "1 Year"
+  },
+  {
+    "question": "While you are driving on gradient roads you should",
+    "image": null,
+    "option_a": "Give precedence  to the   vehicles coming  down hill",
+    "option_b": "Give precedence to the vehicles going uphill",
+    "option_c": "Give precedence to the vehicles carrying heavy load",
+    "ans": "Give precedence to the vehicles going uphill"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img7.png",
+    "option_a": "Keep right side",
+    "option_b": "Parking on the right allowed",
+    "option_c": "Compulsory turn to right",
+    "ans": "Parking on the right allowed"
+  },
+  {
+    "question": "When a vehicle is involved in an accident causing injury to any person",
+    "image": null,
+    "option_a": "Take the vehicle to the nearest police station and report the accident",
+    "option_b": "Stop the vehicle and report to the police station",
+    "option_c": "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24",
+    "ans": "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24"
+  },
+  {
+    "question": "Abandoning vehicle in a public place causing inconvenience to others or passengers",
+    "image": null,
+    "option_a": "the driving licence is liable to be suspended/can celled",
+    "option_b": "only fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img22.png",
+    "option_a": "Trucks prohibited",
+    "option_b": "Bus prohibited",
+    "option_c": "Heavy vehicles",
+    "ans": "Trucks prohibited"
+  },
+  {
+    "question": "While driving behind a longer vehicle, you should",
+    "image": null,
+    "option_a": "maintain shorter distance from it",
+    "option_b": "can drive very close to it as it is not going to stop",
+    "option_c": "maintain a very long distance to have a better view of the traffic ahead of it",
+    "ans": "maintain a very long distance to have a better view of the traffic ahead of it"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img14.png",
+    "option_a": "Entry through right side prohibited",
+    "option_b": "Entry through left prohibited",
+    "option_c": "Overtaking prohibited",
+    "ans": "Overtaking prohibited"
+  },
+  {
+    "question": "Driver of a motor vehicle shall drive through",
+    "image": null,
+    "option_a": "The right side of the road",
+    "option_b": "The left side of the road",
+    "option_c": "The center of the road",
+    "ans": "The left side of the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img78.png",
+    "option_a": "Guarded railway crossing",
+    "option_b": "Unguarded railway crossing",
+    "option_c": "Unguarded railway crossing 200 mtrs Ahead",
+    "ans": "Guarded railway crossing"
+  },
+  {
+    "question": "While you are driving on gradient roads you should",
+    "image": null,
+    "option_a": "Give precedence  to the   vehicles coming  down hill",
+    "option_b": "Give precedence to the vehicles going uphill",
+    "option_c": "Give precedence to the vehicles carrying heavy load",
+    "ans": "Give precedence to the vehicles going uphill"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img64.png",
+    "option_a": "Intends to turn left",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop all other vehicles",
+    "ans": "Intends to turn left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img24.png",
+    "option_a": "Students prohibited",
+    "option_b": "Pedestrians permitted",
+    "option_c": "Pedestrians prohibited",
+    "ans": "Pedestrians prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img45.png",
+    "option_a": "School ahead",
+    "option_b": "Pedestrians crossing",
+    "option_c": "Pedestrians crossing prohibited",
+    "ans": "School ahead"
+  },
+  {
+    "question": "The driver of the vehicle in front has not given signal for allowing over taking",
+    "image": null,
+    "option_a": "We can overtake",
+    "option_b": "We shall not overtake",
+    "option_c": "We can overtake blowing horn",
+    "ans": "We shall not overtake"
+  },
+  {
+    "question": "Zebra lines are meant for",
+    "image": null,
+    "option_a": "stopping vehicle",
+    "option_b": "pedestrians crossing",
+    "option_c": "for giving preference to vehicle",
+    "ans": "pedestrians crossing"
+  },
+  {
+    "question": "If a person in charge of an animal (apprehending that the animal may become unmanageable,) request to stop a vehicle",
+    "image": null,
+    "option_a": "The driver shall stop the vehicle",
+    "option_b": "The driver shall proceed, blowing the horns",
+    "option_c": "The driver shall reduce the speed",
+    "ans": "The driver shall stop the vehicle"
+  },
+  {
+    "question": "Accordingly to law, a person driving a motor car shall",
+    "image": null,
+    "option_a": "wear sunglasses",
+    "option_b": "wear seat belt",
+    "option_c": "wear cap",
+    "ans": "wear seat belt"
+  },
+  {
+    "question": "Overtaking is prohibited",
+    "image": null,
+    "option_a": "When the road ahead is not clearly visible",
+    "option_b": "In the night",
+    "option_c": "when the road center is marked with white broken lines",
+    "ans": "When the road ahead is not clearly visible"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img8.png",
+    "option_a": "U-turn prohibited",
+    "option_b": "Right turn prohibited",
+    "option_c": "Overtaking through left prohibited",
+    "ans": "U-turn prohibited"
+  },
+  {
+    "question": "To carry pillion rider on a motor cycle",
+    "image": null,
+    "option_a": "the vehicle should  have foot rest, hand grip and sari guard",
+    "option_b": "the vehicle should have side car",
+    "option_c": "the vehicle should have rear view mirror",
+    "ans": "the vehicle should  have foot rest, hand grip and sari guard"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "Overtaking when approaching a bend",
+    "image": null,
+    "option_a": "is permissible",
+    "option_b": "not permissible",
+    "option_c": "is permissible with care",
+    "ans": "not permissible"
+  },
+  {
+    "question": "Where a blind person crosses the road holding White Cane",
+    "image": null,
+    "option_a": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+    "option_b": "Blow the horn and proceed",
+    "option_c": "Slow down and proceed with caution",
+    "ans": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img39.png",
+    "option_a": "Y-inter section left",
+    "option_b": "Y-inter section right",
+    "option_c": "Side road left",
+    "ans": "Y-inter section right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img65.png",
+    "option_a": "Intends to turn right",
+    "option_b": "Request to stop the vehicle coming from opposite direction",
+    "option_c": "Intends to slow down the vehicle",
+    "ans": "Intends to slow down the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img14.png",
+    "option_a": "Entry through right side prohibited",
+    "option_b": "Entry through left prohibited",
+    "option_c": "Overtaking prohibited",
+    "ans": "Overtaking prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "Zebra lines are meant for",
+    "image": null,
+    "option_a": "stopping vehicle",
+    "option_b": "pedestrians crossing",
+    "option_c": "for giving preference to vehicle",
+    "ans": "pedestrians crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img26.png",
+    "option_a": "Drive  the vehicle not exceeding 50 km/hr",
+    "option_b": "Drive the vehicle at 50 km/hr",
+    "option_c": "Drive the vehicle exceeding 50 km/hr",
+    "ans": "Drive  the vehicle not exceeding 50 km/hr"
+  },
+  {
+    "question": "Where the 'Slippery road sign' is seen on the road, the driver shall",
+    "image": null,
+    "option_a": "reduce speed by changing to lower gear",
+    "option_b": "apply brake",
+    "option_c": "proceed in the same speed",
+    "ans": "reduce speed by changing to lower gear"
+  },
+  {
+    "question": "When the vehicle behind has begun to overtake our vehicle",
+    "image": null,
+    "option_a": "we shall not overtake another vehicle",
+    "option_b": "we can over take another vehicle",
+    "option_c": "we can overtake another vehicle blowing horn",
+    "ans": "we shall not overtake another vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img50.png",
+    "option_a": "Steep ascend",
+    "option_b": "Steep descend",
+    "option_c": "Slippery road",
+    "ans": "Steep descend"
+  },
+  {
+    "question": "In a road without footpath, the pedestrians",
+    "image": null,
+    "option_a": "Should walk on the left side of the road",
+    "option_b": "Should walk on the right side of  the road",
+    "option_c": "May walk on either side of the road",
+    "ans": "Should walk on the right side of  the road"
+  },
+  {
+    "question": "The compulsory safety device in a car to protect passengers in case of accident is",
+    "image": null,
+    "option_a": "Seat belt",
+    "option_b": "Brake pedal",
+    "option_c": "Air bag",
+    "ans": "Seat belt"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img1.png",
+    "option_a": "Stop",
+    "option_b": "No Parking",
+    "option_c": "Hospital ahead",
+    "ans": "Stop"
+  },
+  {
+    "question": "The Driver of a vehicle extends his right arm with the palm downward and moves the arm upward and downward several times You will understand that",
+    "image": null,
+    "option_a": "He is turning to the left",
+    "option_b": "He is slowing down the vehicle",
+    "option_c": "Allowing to overtake",
+    "ans": "He is slowing down the vehicle"
+  },
+  {
+    "question": "An area guarded with a ribbon in red & white colour indicates",
+    "image": null,
+    "option_a": "Road repairing work is going on",
+    "option_b": "Accident prone zone",
+    "option_c": "Check post ahead",
+    "ans": "Road repairing work is going on"
+  },
+  {
+    "question": "You can apply for a permanent driving licence after",
+    "image": null,
+    "option_a": "30  days from the date of issue of learner’s licence",
+    "option_b": "60 days from the date of issue of learner’s licence",
+    "option_c": "180 days from the date of issue of learner’s licence",
+    "ans": "30  days from the date of issue of learner’s licence"
+  },
+  {
+    "question": "Overtaking when approaching a bend",
+    "image": null,
+    "option_a": "is permissible",
+    "option_b": "not permissible",
+    "option_c": "is permissible with care",
+    "ans": "not permissible"
+  },
+  {
+    "question": "While driving, the driver should keep",
+    "image": null,
+    "option_a": "Original driving licence",
+    "option_b": "Colour Xerox copy of driving licence",
+    "option_c": "Certified copy of driving licence",
+    "ans": "Original driving licence"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img46.png",
+    "option_a": "Men at work",
+    "option_b": "Children playing",
+    "option_c": "Pedestrian crossing",
+    "ans": "Men at work"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img4.png",
+    "option_a": "No entry",
+    "option_b": "One way",
+    "option_c": "Speed limit ends",
+    "ans": "No entry"
+  },
+  {
+    "question": "To carry pillion rider on a motor cycle",
+    "image": null,
+    "option_a": "the vehicle should  have foot rest, hand grip and sari guard",
+    "option_b": "the vehicle should have side car",
+    "option_c": "the vehicle should have rear view mirror",
+    "ans": "the vehicle should  have foot rest, hand grip and sari guard"
+  },
+  {
+    "question": "Free passage should be given to the following types of vehicles",
+    "image": null,
+    "option_a": "Small vehicles",
+    "option_b": "Ambulance and fire service vehicles",
+    "option_c": "Express, Super Express buses",
+    "ans": "Ambulance and fire service vehicles"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img9.png",
+    "option_a": "Horn prohibited",
+    "option_b": "Compulsory sound horn",
+    "option_c": "May sound horn",
+    "ans": "Horn prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img25.png",
+    "option_a": "Overtaking prohibited through the right side",
+    "option_b": "Turn left",
+    "option_c": "Left turn prohibited",
+    "ans": "Left turn prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img14.png",
+    "option_a": "Entry through right side prohibited",
+    "option_b": "Entry through left prohibited",
+    "option_c": "Overtaking prohibited",
+    "ans": "Overtaking prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img24.png",
+    "option_a": "Students prohibited",
+    "option_b": "Pedestrians permitted",
+    "option_c": "Pedestrians prohibited",
+    "ans": "Pedestrians prohibited"
+  },
+  {
+    "question": "When the yellow light at an intersection appear on the signal light, the driver of a approaching vehicle should",
+    "image": null,
+    "option_a": "Ensure safety and drive away",
+    "option_b": "Slow down to stop",
+    "option_c": "Sound horn and proceed",
+    "ans": "Slow down to stop"
+  },
+  {
+    "question": "Parking is prohibited in the following place",
+    "image": null,
+    "option_a": "Entrance of hospital",
+    "option_b": "Left side of the road",
+    "option_c": "Market area",
+    "ans": "Entrance of hospital"
+  },
+  {
+    "question": "Using a mobile phone while driving",
+    "image": null,
+    "option_a": "Increases  the chances of accident",
+    "option_b": "Saves time and effort for a task",
+    "option_c": "Permissible in case of an emergency",
+    "ans": "Increases  the chances of accident"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img61.png",
+    "option_a": "Petrol pump",
+    "option_b": "Garage",
+    "option_c": "Air-filling facility",
+    "ans": "Petrol pump"
+  },
+  {
+    "question": "Validity of learner's licence",
+    "image": null,
+    "option_a": "Till the driving licence is",
+    "option_b": "6  months from the date of issue",
+    "option_c": "30 days",
+    "ans": "6  months from the date of issue"
+  },
+  {
+    "question": "Boarding in or alighting from a vehicle while in motion",
+    "image": null,
+    "option_a": "Permitted in bus",
+    "option_b": "permitted in auto-rickshaw",
+    "option_c": "prohibited  in all vehicles",
+    "ans": "prohibited  in all vehicles"
+  },
+  {
+    "question": "To be helpful to an unconscious person in case of an accident, you should,",
+    "image": null,
+    "option_a": "loosen his clothes",
+    "option_b": "not let people stand nearby, ensure free supply of air and in winter season wrap blanket around the body",
+    "option_c": "do both",
+    "ans": "do both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img66.png",
+    "option_a": "Intends to go straight",
+    "option_b": "Intends to stop the vehicle",
+    "option_c": "Intends to turn right",
+    "ans": "Intends to stop the vehicle"
+  },
+  {
+    "question": "Yellow continuous line marked at the middle of the road indicates",
+    "image": "https://www.rtoexam.com/themes/images/img82.png",
+    "option_a": "Overtaking permitted",
+    "option_b": "Crossing yellow line is prohibited",
+    "option_c": "Driver can go on the other side of this lane",
+    "ans": "Crossing yellow line is prohibited"
+  },
+  {
+    "question": "The temperature gauge in the dash board of a car indicates the temperature of",
+    "image": null,
+    "option_a": "the weather Outside the car",
+    "option_b": "inside the car",
+    "option_c": "The engine",
+    "ans": "The engine"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img21.png",
+    "option_a": "All Motor Vehicles Prohibited",
+    "option_b": "no entry for cars and motor cycles",
+    "option_c": "Entry allowed for cars and motor vehicles",
+    "ans": "All Motor Vehicles Prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img52.png",
+    "option_a": "Drainage in middle",
+    "option_b": "Bridge ahead",
+    "option_c": "Gap in median",
+    "ans": "Gap in median"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img56.png",
+    "option_a": "Ferry",
+    "option_b": "No road ahead",
+    "option_c": "Water on the road",
+    "ans": "Ferry"
+  },
+  {
+    "question": "While driving at night on city roads, keep your head-light on a",
+    "image": null,
+    "option_a": "Low Beam",
+    "option_b": "High Beam",
+    "option_c": "Switch off all Lights",
+    "ans": "Low Beam"
+  },
+  {
+    "question": "Minimum age required to procure a driving licence for LMV",
+    "image": null,
+    "option_a": "16 years",
+    "option_b": "18 Years",
+    "option_c": "20 Years",
+    "ans": "18 Years"
+  },
+  {
+    "question": "Accordingly to law, a person driving a motor car shall",
+    "image": null,
+    "option_a": "wear sunglasses",
+    "option_b": "wear seat belt",
+    "option_c": "wear cap",
+    "ans": "wear seat belt"
+  },
+  {
+    "question": "You can overtake a vehicle in front",
+    "image": null,
+    "option_a": "From the right side of that vehicle",
+    "option_b": "Through the left side",
+    "option_c": "Through the left side, if the road is wide",
+    "ans": "From the right side of that vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img11.png",
+    "option_a": "Road closed",
+    "option_b": "no parking",
+    "option_c": "End of speed restriction",
+    "ans": "End of speed restriction"
+  },
+  {
+    "question": "While you are approaching an intersection where the yellow signal light is blinking, you should",
+    "image": null,
+    "option_a": "As there is no restriction, proceed at the same speed",
+    "option_b": "Stop the vehicle and wait for the green light to appear",
+    "option_c": "Slow down the vehicle and proceed only after ensuring that it is safe to move",
+    "ans": "Slow down the vehicle and proceed only after ensuring that it is safe to move"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "Using unregistered vehicle in public place is",
+    "image": null,
+    "option_a": "Illegal",
+    "option_b": "Legal",
+    "option_c": "Legal if there is urgency",
+    "ans": "Illegal"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img67.png",
+    "option_a": "Requested to stop the vehicle from behind",
+    "option_b": "Allow to pass the vehicle from behind",
+    "option_c": "Request to stop the vehicle from front",
+    "ans": "Allow to pass the vehicle from behind"
+  },
+  {
+    "question": "While parking your vehicle at night you should",
+    "image": null,
+    "option_a": "Apply parking brake",
+    "option_b": "Turn parking lights on",
+    "option_c": "Apply both",
+    "ans": "Apply both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img19.png",
+    "option_a": "End of restriction",
+    "option_b": "No Stopping or Parking",
+    "option_c": "No parking",
+    "ans": "No Stopping or Parking"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img73.png",
+    "option_a": "Road to the right in front",
+    "option_b": "Compulsory turn right",
+    "option_c": "Turn to right prohibited",
+    "ans": "Compulsory turn right"
+  },
+  {
+    "question": "While turning left you should",
+    "image": null,
+    "option_a": "Show the left turn signal, drive to the center and turn to the left",
+    "option_b": "Sound horn and turn to the left",
+    "option_c": "Show the left turn signal, keep to the left side of the road and turn to the left",
+    "ans": "Show the left turn signal, keep to the left side of the road and turn to the left"
+  },
+  {
+    "question": "Free passage should be given to the following types of vehicles",
+    "image": null,
+    "option_a": "Small vehicles",
+    "option_b": "Ambulance and fire service vehicles",
+    "option_c": "Express, Super Express buses",
+    "ans": "Ambulance and fire service vehicles"
+  },
+  {
+    "question": "More than two persons on a two wheeler is",
+    "image": null,
+    "option_a": "Allowed in unavoidable circumstances",
+    "option_b": "Violation of law",
+    "option_c": "Allowed when the traffic is less",
+    "ans": "Violation of law"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img72.png",
+    "option_a": "U-turn prohibited",
+    "option_b": "Right turn prohibited",
+    "option_c": "Overtaking through left prohibited",
+    "ans": "Right turn prohibited"
+  },
+  {
+    "question": "The following sign represent",
+    "image": "https://www.rtoexam.com/themes/images/img63.png",
+    "option_a": "Request to stop the vehicle coming behind",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop the vehicle from opposite direction",
+    "ans": "Intends to turn right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img16.png",
+    "option_a": "May turn to left",
+    "option_b": "Compulsory go ahead or turn left",
+    "option_c": "Side road left",
+    "ans": "Compulsory go ahead or turn left"
+  },
+  {
+    "question": "While changing lanes, you should",
+    "image": null,
+    "option_a": "Blow horn and change lane",
+    "option_b": "Use indicator and change lane",
+    "option_c": "No need to use indicator, just look in the mirror and change lane",
+    "ans": "Use indicator and change lane"
+  },
+  {
+    "question": "The colour of reverse light is",
+    "image": null,
+    "option_a": "Red",
+    "option_b": "White",
+    "option_c": "Orange",
+    "ans": "White"
+  },
+  {
+    "question": "On a road designated as one way",
+    "image": null,
+    "option_a": "Parking  is prohibited",
+    "option_b": "Overtaking is prohibited",
+    "option_c": "Should not drive in reverse gear",
+    "ans": "Should not drive in reverse gear"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img78.png",
+    "option_a": "Guarded railway crossing",
+    "option_b": "Unguarded railway crossing",
+    "option_c": "Unguarded railway crossing 200 mtrs Ahead",
+    "ans": "Guarded railway crossing"
+  },
+  {
+    "question": "While you are driving with the head light in high beam during night, a vehicle approaches from opposite direction, you will",
+    "image": null,
+    "option_a": "Proceed keeping to the left",
+    "option_b": "Put the head light in dim and bright alternatively, several times",
+    "option_c": "Dim the head light till the vehicle passed",
+    "ans": "Dim the head light till the vehicle passed"
+  },
+  {
+    "question": "Validity of vehicle insurance is",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 years",
+    "ans": "1 Year"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img8.png",
+    "option_a": "U-turn prohibited",
+    "option_b": "Right turn prohibited",
+    "option_c": "Overtaking through left prohibited",
+    "ans": "U-turn prohibited"
+  },
+  {
+    "question": "What is the Validity of Pollution Under Control Certificate?",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 Years",
+    "ans": "6 months"
+  },
+  {
+    "question": "Driving a vehicle without the brake light is",
+    "image": null,
+    "option_a": "Valid  for  two wheeler",
+    "option_b": "An offence",
+    "option_c": "Valid for trucks only",
+    "ans": "An offence"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img76.png",
+    "option_a": "Staggered Intersections",
+    "option_b": "Zigzag road",
+    "option_c": "No right and left turn",
+    "ans": "Staggered Intersections"
+  },
+  {
+    "question": "Incorrect gear shifting may lead to",
+    "image": null,
+    "option_a": "Damage on gear box",
+    "option_b": "Higher fuel consumption",
+    "option_c": "Both",
+    "ans": "Both"
+  },
+  {
+    "question": "It is compulsory for a driver to wear uniform while driving",
+    "image": null,
+    "option_a": "Private Vehicle",
+    "option_b": "All Commercial Vehicle",
+    "option_c": "All Vehicles",
+    "ans": "All Commercial Vehicle"
+  },
+  {
+    "question": "The temperature gauge in the dash board of a car indicates the temperature of",
+    "image": null,
+    "option_a": "the weather Outside the car",
+    "option_b": "inside the car",
+    "option_c": "The engine",
+    "ans": "The engine"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img64.png",
+    "option_a": "Intends to turn left",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop all other vehicles",
+    "ans": "Intends to turn left"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "Red traffic light indicates",
+    "image": null,
+    "option_a": "vehicle can proceed with caution",
+    "option_b": "stop the vehicle",
+    "option_c": "slow down",
+    "ans": "stop the vehicle"
+  },
+  {
+    "question": "Maximum speed allowed for motor cars",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "70 km/hr",
+    "option_c": "50 km/hr",
+    "ans": "No limit"
+  },
+  {
+    "question": "When a vehicle is parked on the road side during night",
+    "image": null,
+    "option_a": "The vehicle should  be locked",
+    "option_b": "The person having licence to drive such a vehicle should be  in",
+    "option_c": "The parking light shall remain lit",
+    "ans": "The parking light shall remain lit"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img11.png",
+    "option_a": "Road closed",
+    "option_b": "no parking",
+    "option_c": "End of speed restriction",
+    "ans": "End of speed restriction"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img25.png",
+    "option_a": "Overtaking prohibited through the right side",
+    "option_b": "Turn left",
+    "option_c": "Left turn prohibited",
+    "ans": "Left turn prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img13.png",
+    "option_a": "Railway station",
+    "option_b": "Level crossing",
+    "option_c": "Level crossing Guarded",
+    "ans": "Level crossing Guarded"
+  },
+  {
+    "question": "Free passage should be given to the following types of vehicles",
+    "image": null,
+    "option_a": "Small vehicles",
+    "option_b": "Ambulance and fire service vehicles",
+    "option_c": "Express, Super Express buses",
+    "ans": "Ambulance and fire service vehicles"
+  },
+  {
+    "question": "How does Headrest of the seat help?",
+    "image": null,
+    "option_a": "You can relax while driving",
+    "option_b": "Protects you from neck injury in case of accident",
+    "option_c": "Seat looks beautiful with headrest",
+    "ans": "Protects you from neck injury in case of accident"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img53.png",
+    "option_a": "Hump or rough road",
+    "option_b": "Zigzag road",
+    "option_c": "Ghat road",
+    "ans": "Hump or rough road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img24.png",
+    "option_a": "Students prohibited",
+    "option_b": "Pedestrians permitted",
+    "option_c": "Pedestrians prohibited",
+    "ans": "Pedestrians prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img37.png",
+    "option_a": "Turn right",
+    "option_b": "Turn left",
+    "option_c": "Round about",
+    "ans": "Round about"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img74.png",
+    "option_a": "Go straight",
+    "option_b": "One-way",
+    "option_c": "Prohibited in both direction",
+    "ans": "Prohibited in both direction"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "Yellow continuous line marked at the middle of the road indicates",
+    "image": "https://www.rtoexam.com/themes/images/img82.png",
+    "option_a": "Overtaking permitted",
+    "option_b": "Crossing yellow line is prohibited",
+    "option_c": "Driver can go on the other side of this lane",
+    "ans": "Crossing yellow line is prohibited"
+  },
+  {
+    "question": "What is the colour scheme for the number plate of a commercial vehicle?",
+    "image": null,
+    "option_a": "Yellow base and black letters",
+    "option_b": "Black base and yellow letters",
+    "option_c": "White base and black letters",
+    "ans": "Yellow base and black letters"
+  },
+  {
+    "question": "If the road is marked with broken white lines, you...",
+    "image": null,
+    "option_a": "shall not change track",
+    "option_b": "can change track if required",
+    "option_c": "shall stop the vehicle",
+    "ans": "can change track if required"
+  },
+  {
+    "question": "Overtaking is prohibited",
+    "image": null,
+    "option_a": "When the road ahead is not clearly visible",
+    "option_b": "In the night",
+    "option_c": "when the road center is marked with white broken lines",
+    "ans": "When the road ahead is not clearly visible"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img56.png",
+    "option_a": "Ferry",
+    "option_b": "No road ahead",
+    "option_c": "Water on the road",
+    "ans": "Ferry"
+  },
+  {
+    "question": "Blinking yellow traffic light means",
+    "image": null,
+    "option_a": "stop the vehicle till green light glows",
+    "option_b": "stop the vehicle and proceed if safe",
+    "option_c": "reduce speed and proceed safely",
+    "ans": "reduce speed and proceed safely"
+  },
+  {
+    "question": "You can apply for a permanent driving licence after",
+    "image": null,
+    "option_a": "30  days from the date of issue of learner’s licence",
+    "option_b": "60 days from the date of issue of learner’s licence",
+    "option_c": "180 days from the date of issue of learner’s licence",
+    "ans": "30  days from the date of issue of learner’s licence"
+  },
+  {
+    "question": "In a road without footpath, the pedestrians",
+    "image": null,
+    "option_a": "Should walk on the left side of the road",
+    "option_b": "Should walk on the right side of  the road",
+    "option_c": "May walk on either side of the road",
+    "ans": "Should walk on the right side of  the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img31.png",
+    "option_a": "Left descend",
+    "option_b": "Left hair pin bend",
+    "option_c": "Keep left",
+    "ans": "Left hair pin bend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img52.png",
+    "option_a": "Drainage in middle",
+    "option_b": "Bridge ahead",
+    "option_c": "Gap in median",
+    "ans": "Gap in median"
+  },
+  {
+    "question": "How does the stopping distance of a vehicle get affected while applying brake during rain?",
+    "image": null,
+    "option_a": "Stopping distance increases",
+    "option_b": "Stopping distance decreases",
+    "option_c": "Does not affect",
+    "ans": "Stopping distance increases"
+  },
+  {
+    "question": "Boarding in or alighting from a vehicle while in motion",
+    "image": null,
+    "option_a": "Permitted in bus",
+    "option_b": "permitted in auto-rickshaw",
+    "option_c": "prohibited  in all vehicles",
+    "ans": "prohibited  in all vehicles"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "Validity of learner's licence",
+    "image": null,
+    "option_a": "Till the driving licence is",
+    "option_b": "6  months from the date of issue",
+    "option_c": "30 days",
+    "ans": "6  months from the date of issue"
+  },
+  {
+    "question": "You hold a learners licence for motor cycle...",
+    "image": null,
+    "option_a": "You will drive when the traffic is less",
+    "option_b": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies",
+    "option_c": "You will carry any other person on the motor cycle",
+    "ans": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies"
+  },
+  {
+    "question": "While you are driving on gradient roads you should",
+    "image": null,
+    "option_a": "Give precedence  to the   vehicles coming  down hill",
+    "option_b": "Give precedence to the vehicles going uphill",
+    "option_c": "Give precedence to the vehicles carrying heavy load",
+    "ans": "Give precedence to the vehicles going uphill"
+  },
+  {
+    "question": "Free passage should be given to the following types of vehicles",
+    "image": null,
+    "option_a": "Small vehicles",
+    "option_b": "Ambulance and fire service vehicles",
+    "option_c": "Express, Super Express buses",
+    "ans": "Ambulance and fire service vehicles"
+  },
+  {
+    "question": "How driver can prevent fatigue while driving?",
+    "image": null,
+    "option_a": "By drinking alcohol",
+    "option_b": "By resting during the journey at every  two hours",
+    "option_c": "By listening to the music",
+    "ans": "By resting during the journey at every  two hours"
+  },
+  {
+    "question": "Maximum speed allowed for motor cars",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "70 km/hr",
+    "option_c": "50 km/hr",
+    "ans": "No limit"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img81.png",
+    "option_a": "One-way sign",
+    "option_b": "Vehicles prohibited  in both direction",
+    "option_c": "Overtaking prohibited",
+    "ans": "One-way sign"
+  },
+  {
+    "question": "The only vehicle which is permitted to be driven at a speed exceeding 65 km/hr",
+    "image": null,
+    "option_a": "Motor cycle",
+    "option_b": "Motor car",
+    "option_c": "Stage carriage",
+    "ans": "Motor car"
+  },
+  {
+    "question": "While turning left you should",
+    "image": null,
+    "option_a": "Show the left turn signal, drive to the center and turn to the left",
+    "option_b": "Sound horn and turn to the left",
+    "option_c": "Show the left turn signal, keep to the left side of the road and turn to the left",
+    "ans": "Show the left turn signal, keep to the left side of the road and turn to the left"
+  },
+  {
+    "question": "The Driver of a vehicle extends his right arm with the palm downward and moves the arm upward and downward several times You will understand that",
+    "image": null,
+    "option_a": "He is turning to the left",
+    "option_b": "He is slowing down the vehicle",
+    "option_c": "Allowing to overtake",
+    "ans": "He is slowing down the vehicle"
+  },
+  {
+    "question": "Driver of a motor vehicle shall drive through",
+    "image": null,
+    "option_a": "The right side of the road",
+    "option_b": "The left side of the road",
+    "option_c": "The center of the road",
+    "ans": "The left side of the road"
+  },
+  {
+    "question": "In case of an accident, which knowledge can be helpful to you to save human life?",
+    "image": null,
+    "option_a": "Vehicle maintenance",
+    "option_b": "First-Aid",
+    "option_c": "Legal",
+    "ans": "First-Aid"
+  },
+  {
+    "question": "Minor driving a car and meets with an accident",
+    "image": null,
+    "option_a": "Since, he is a minor; he can not be punished",
+    "option_b": "Parents or guardian of a minor may also be held responsible",
+    "option_c": "Offence as per the law to be registered and penalties to be applied",
+    "ans": "Offence as per the law to be registered and penalties to be applied"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "Incorrect gear shifting may lead to",
+    "image": null,
+    "option_a": "Damage on gear box",
+    "option_b": "Higher fuel consumption",
+    "option_c": "Both",
+    "ans": "Both"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "Road on which driving in reverse gear is prohibited",
+    "image": null,
+    "option_a": "One-way road",
+    "option_b": "Market Area",
+    "option_c": "State Highway",
+    "ans": "One-way road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img35.png",
+    "option_a": "Side road left",
+    "option_b": "Speed limit",
+    "option_c": "Axle load limit",
+    "ans": "Axle load limit"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "In case of an accident, which knowledge can be helpful to you to save human life?",
+    "image": null,
+    "option_a": "Vehicle maintenance",
+    "option_b": "First-Aid",
+    "option_c": "Legal",
+    "ans": "First-Aid"
+  },
+  {
+    "question": "The following sign represent",
+    "image": "https://www.rtoexam.com/themes/images/img62.png",
+    "option_a": "Lane changing is permitted",
+    "option_b": "Change the line with caution",
+    "option_c": "Lane changing is prohibited",
+    "ans": "Change the line with caution"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img80.png",
+    "option_a": "No through road",
+    "option_b": "Bump ahead",
+    "option_c": "Road repairing work going on",
+    "ans": "No through road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img5.png",
+    "option_a": "Right turn prohibited",
+    "option_b": "Sharp curve to the right",
+    "option_c": "U-turn prohibited",
+    "ans": "Sharp curve to the right"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "Overtaking is prohibited",
+    "image": null,
+    "option_a": "When the road ahead is not clearly visible",
+    "option_b": "In the night",
+    "option_c": "when the road center is marked with white broken lines",
+    "ans": "When the road ahead is not clearly visible"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img7.png",
+    "option_a": "Keep right side",
+    "option_b": "Parking on the right allowed",
+    "option_c": "Compulsory turn to right",
+    "ans": "Parking on the right allowed"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img20.png",
+    "option_a": "Compulsory ahead only",
+    "option_b": "One-way",
+    "option_c": "Prohibited in both direction",
+    "ans": "Compulsory ahead only"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img4.png",
+    "option_a": "No entry",
+    "option_b": "One way",
+    "option_c": "Speed limit ends",
+    "ans": "No entry"
+  },
+  {
+    "question": "When fuel is filled in a vehicle",
+    "image": null,
+    "option_a": "shall not check air pressure",
+    "option_b": "shall not smoke",
+    "option_c": "shall not use any light of the vehicle",
+    "ans": "shall not smoke"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img56.png",
+    "option_a": "Ferry",
+    "option_b": "No road ahead",
+    "option_c": "Water on the road",
+    "ans": "Ferry"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img60.png",
+    "option_a": "No entry for private cars",
+    "option_b": "Parking lot – Taxis",
+    "option_c": "Parking for police vehicles",
+    "ans": "Parking lot – Taxis"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img78.png",
+    "option_a": "Guarded railway crossing",
+    "option_b": "Unguarded railway crossing",
+    "option_c": "Unguarded railway crossing 200 mtrs Ahead",
+    "ans": "Guarded railway crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img18.png",
+    "option_a": "Road to the right in front",
+    "option_b": "Compulsory turn right",
+    "option_c": "Turn to right prohibited",
+    "ans": "Road to the right in front"
+  },
+  {
+    "question": "Driver of a vehicle may overtake",
+    "image": null,
+    "option_a": "while driving down hill",
+    "option_b": "If the road is not sufficiently wide",
+    "option_c": "When the driver of the vehicle ahead shows the signal to overtake",
+    "ans": "When the driver of the vehicle ahead shows the signal to overtake"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img7.png",
+    "option_a": "Keep right side",
+    "option_b": "Parking on the right allowed",
+    "option_c": "Compulsory turn to right",
+    "ans": "Parking on the right allowed"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img52.png",
+    "option_a": "Drainage in middle",
+    "option_b": "Bridge ahead",
+    "option_c": "Gap in median",
+    "ans": "Gap in median"
+  },
+  {
+    "question": "A driving license issued by RTO is valid",
+    "image": null,
+    "option_a": "Throughout the country",
+    "option_b": "In that particular state only",
+    "option_c": "In that particular district only",
+    "ans": "Throughout the country"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img73.png",
+    "option_a": "Road to the right in front",
+    "option_b": "Compulsory turn right",
+    "option_c": "Turn to right prohibited",
+    "ans": "Compulsory turn right"
+  },
+  {
+    "question": "Overtaking is prohibited in the following case",
+    "image": null,
+    "option_a": "State highway",
+    "option_b": "Panchayat roads",
+    "option_c": "Narrow bridge",
+    "ans": "Narrow bridge"
+  },
+  {
+    "question": "Validity of vehicle insurance is",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 years",
+    "ans": "1 Year"
+  },
+  {
+    "question": "While driving down hill, you should",
+    "image": null,
+    "option_a": "Keep the clutch pressed and roll the vehicle",
+    "option_b": "Switch off the engine and roll the vehicle to save fuel",
+    "option_c": "Avoid both",
+    "ans": "Avoid both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img58.png",
+    "option_a": "Parking lot – scooters and motor cycle",
+    "option_b": "Scooters and motor cycles prohibited",
+    "option_c": "Scooters and motor cycles repairing",
+    "ans": "Parking lot – scooters and motor cycle"
+  },
+  {
+    "question": "When the vehicle behind has begun to overtake our vehicle",
+    "image": null,
+    "option_a": "we shall not overtake another vehicle",
+    "option_b": "we can over take another vehicle",
+    "option_c": "we can overtake another vehicle blowing horn",
+    "ans": "we shall not overtake another vehicle"
+  },
+  {
+    "question": "The colour of Stop-Line used on road is",
+    "image": null,
+    "option_a": "Yellow",
+    "option_b": "White",
+    "option_c": "Yellow and Black",
+    "ans": "White"
+  },
+  {
+    "question": "While changing lanes, you should",
+    "image": null,
+    "option_a": "Blow horn and change lane",
+    "option_b": "Use indicator and change lane",
+    "option_c": "No need to use indicator, just look in the mirror and change lane",
+    "ans": "Use indicator and change lane"
+  },
+  {
+    "question": "You want to overtake a vehicle near a hospital. You...",
+    "image": null,
+    "option_a": "will blow the horn continuously",
+    "option_b": "will not blow horn",
+    "option_c": "blow the horn only intermittently",
+    "ans": "will not blow horn"
+  },
+  {
+    "question": "To carry pillion rider on a motor cycle",
+    "image": null,
+    "option_a": "the vehicle should  have foot rest, hand grip and sari guard",
+    "option_b": "the vehicle should have side car",
+    "option_c": "the vehicle should have rear view mirror",
+    "ans": "the vehicle should  have foot rest, hand grip and sari guard"
+  },
+  {
+    "question": "Driving a vehicle without the brake light is",
+    "image": null,
+    "option_a": "Valid  for  two wheeler",
+    "option_b": "An offence",
+    "option_c": "Valid for trucks only",
+    "ans": "An offence"
+  },
+  {
+    "question": "When school buses are stopped for picking up or dropping down students",
+    "image": null,
+    "option_a": "Blow horn and proceed",
+    "option_b": "proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+    "option_c": "No special care is required",
+    "ans": "proceed slowly and cautiously since there is chance of students suddenly crossing the road"
+  },
+  {
+    "question": "Minimum age required to procure a driving licence for LMV",
+    "image": null,
+    "option_a": "16 years",
+    "option_b": "18 Years",
+    "option_c": "20 Years",
+    "ans": "18 Years"
+  },
+  {
+    "question": "When a vehicle is involved in an accident causing injury to any person",
+    "image": null,
+    "option_a": "Take the vehicle to the nearest police station and report the accident",
+    "option_b": "Stop the vehicle and report to the police station",
+    "option_c": "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24",
+    "ans": "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24"
+  },
+  {
+    "question": "Driver of a motor vehicle shall drive through",
+    "image": null,
+    "option_a": "The right side of the road",
+    "option_b": "The left side of the road",
+    "option_c": "The center of the road",
+    "ans": "The left side of the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img53.png",
+    "option_a": "Hump or rough road",
+    "option_b": "Zigzag road",
+    "option_c": "Ghat road",
+    "ans": "Hump or rough road"
+  },
+  {
+    "question": "The colour of Stop-Line used on road is",
+    "image": null,
+    "option_a": "Yellow",
+    "option_b": "White",
+    "option_c": "Yellow and Black",
+    "ans": "White"
+  },
+  {
+    "question": "Validity of vehicle insurance is",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 years",
+    "ans": "1 Year"
+  },
+  {
+    "question": "How does Headrest of the seat help?",
+    "image": null,
+    "option_a": "You can relax while driving",
+    "option_b": "Protects you from neck injury in case of accident",
+    "option_c": "Seat looks beautiful with headrest",
+    "ans": "Protects you from neck injury in case of accident"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from skin burn. You should...",
+    "image": null,
+    "option_a": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance",
+    "option_b": "Burst blisters",
+    "option_c": "Remove his cloths stuck to the burns",
+    "ans": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance"
+  },
+  {
+    "question": "Abandoning vehicle in a public place causing inconvenience to others or passengers",
+    "image": null,
+    "option_a": "the driving licence is liable to be suspended/can celled",
+    "option_b": "only fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img9.png",
+    "option_a": "Horn prohibited",
+    "option_b": "Compulsory sound horn",
+    "option_c": "May sound horn",
+    "ans": "Horn prohibited"
+  },
+  {
+    "question": "Drinking alcohol and driving invites",
+    "image": null,
+    "option_a": "wrong judgement by driver",
+    "option_b": "reduced vision of a driver",
+    "option_c": "both",
+    "ans": "both"
+  },
+  {
+    "question": "Where a blind person crosses the road holding White Cane",
+    "image": null,
+    "option_a": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+    "option_b": "Blow the horn and proceed",
+    "option_c": "Slow down and proceed with caution",
+    "ans": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle"
+  },
+  {
+    "question": "More than two persons on a two wheeler is",
+    "image": null,
+    "option_a": "Allowed in unavoidable circumstances",
+    "option_b": "Violation of law",
+    "option_c": "Allowed when the traffic is less",
+    "ans": "Violation of law"
+  },
+  {
+    "question": "While a vehicle entering a main road from a branch road, the driver shall give preference",
+    "image": null,
+    "option_a": "To  the vehicles coming  from the left",
+    "option_b": "To the vehicles coming  from the right",
+    "option_c": "To all vehicles proceeding along the main road",
+    "ans": "To the vehicles coming  from the right"
+  },
+  {
+    "question": "While turning to the left, the driver of a two wheeler shall",
+    "image": null,
+    "option_a": "Extend his left hand  towards left",
+    "option_b": "Not show hand signal",
+    "option_c": "Show left turn signal with his right hand or signal by indicator",
+    "ans": "Show left turn signal with his right hand or signal by indicator"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img41.png",
+    "option_a": "Slippery road",
+    "option_b": "Gravel road",
+    "option_c": "No entry for motor car",
+    "ans": "Slippery road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "When the vehicle behind has begun to overtake our vehicle",
+    "image": null,
+    "option_a": "we shall not overtake another vehicle",
+    "option_b": "we can over take another vehicle",
+    "option_c": "we can overtake another vehicle blowing horn",
+    "ans": "we shall not overtake another vehicle"
+  },
+  {
+    "question": "An area guarded with a ribbon in red & white colour indicates",
+    "image": null,
+    "option_a": "Road repairing work is going on",
+    "option_b": "Accident prone zone",
+    "option_c": "Check post ahead",
+    "ans": "Road repairing work is going on"
+  },
+  {
+    "question": "You can save fuel by",
+    "image": null,
+    "option_a": "Proper tuning of the vehicle",
+    "option_b": "Proper cleaning of the vehicle",
+    "option_c": "Making excessive use of Clutch while driving",
+    "ans": "Proper tuning of the vehicle"
+  },
+  {
+    "question": "Drunken driving is",
+    "image": null,
+    "option_a": "allowed in private vehicles",
+    "option_b": "allowed during night time",
+    "option_c": "prohibited in all vehicles",
+    "ans": "prohibited in all vehicles"
+  },
+  {
+    "question": "The colour of Stop-Line used on road is",
+    "image": null,
+    "option_a": "Yellow",
+    "option_b": "White",
+    "option_c": "Yellow and Black",
+    "ans": "White"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img37.png",
+    "option_a": "Turn right",
+    "option_b": "Turn left",
+    "option_c": "Round about",
+    "ans": "Round about"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img64.png",
+    "option_a": "Intends to turn left",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop all other vehicles",
+    "ans": "Intends to turn left"
+  },
+  {
+    "question": "Overtaking is prohibited in following circumstances",
+    "image": null,
+    "option_a": "when it is likely to cause inconvenience or danger to other traffic",
+    "option_b": "when  the vehicle in front is reducing speed",
+    "option_c": "during night",
+    "ans": "when it is likely to cause inconvenience or danger to other traffic"
+  },
+  {
+    "question": "More than two persons on a two wheeler is",
+    "image": null,
+    "option_a": "Allowed in unavoidable circumstances",
+    "option_b": "Violation of law",
+    "option_c": "Allowed when the traffic is less",
+    "ans": "Violation of law"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img56.png",
+    "option_a": "Ferry",
+    "option_b": "No road ahead",
+    "option_c": "Water on the road",
+    "ans": "Ferry"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img30.png",
+    "option_a": "Right hair pin bend",
+    "option_b": "Right ascend and descend",
+    "option_c": "Right descends",
+    "ans": "Right hair pin bend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img23.png",
+    "option_a": "Bullock cart prohibited",
+    "option_b": "Cycle prohibited",
+    "option_c": "All vehicles prohibited",
+    "ans": "Bullock cart prohibited"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img5.png",
+    "option_a": "Right turn prohibited",
+    "option_b": "Sharp curve to the right",
+    "option_c": "U-turn prohibited",
+    "ans": "Sharp curve to the right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img49.png",
+    "option_a": "Steep ascend",
+    "option_b": "Steep descend",
+    "option_c": "Slippery road",
+    "ans": "Steep ascend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img67.png",
+    "option_a": "Requested to stop the vehicle from behind",
+    "option_b": "Allow to pass the vehicle from behind",
+    "option_c": "Request to stop the vehicle from front",
+    "ans": "Allow to pass the vehicle from behind"
+  },
+  {
+    "question": "The following sign represent",
+    "image": "https://www.rtoexam.com/themes/images/img62.png",
+    "option_a": "Lane changing is permitted",
+    "option_b": "Change the line with caution",
+    "option_c": "Lane changing is prohibited",
+    "ans": "Change the line with caution"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img65.png",
+    "option_a": "Intends to turn right",
+    "option_b": "Request to stop the vehicle coming from opposite direction",
+    "option_c": "Intends to slow down the vehicle",
+    "ans": "Intends to slow down the vehicle"
+  },
+  {
+    "question": "When any property of a third party is damaged due to an accident",
+    "image": null,
+    "option_a": "the driver shall report to the nearest police station within 24 hours",
+    "option_b": "the driver shall report to the nearest police station within 7 days",
+    "option_c": "need not report to any police station",
+    "ans": "the driver shall report to the nearest police station within 24 hours"
+  },
+  {
+    "question": "While driving behind a longer vehicle, you should",
+    "image": null,
+    "option_a": "maintain shorter distance from it",
+    "option_b": "can drive very close to it as it is not going to stop",
+    "option_c": "maintain a very long distance to have a better view of the traffic ahead of it",
+    "ans": "maintain a very long distance to have a better view of the traffic ahead of it"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "The following sign represent",
+    "image": "https://www.rtoexam.com/themes/images/img63.png",
+    "option_a": "Request to stop the vehicle coming behind",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop the vehicle from opposite direction",
+    "ans": "Intends to turn right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img5.png",
+    "option_a": "Right turn prohibited",
+    "option_b": "Sharp curve to the right",
+    "option_c": "U-turn prohibited",
+    "ans": "Sharp curve to the right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img11.png",
+    "option_a": "Road closed",
+    "option_b": "no parking",
+    "option_c": "End of speed restriction",
+    "ans": "End of speed restriction"
+  },
+  {
+    "question": "The colour of reverse light is",
+    "image": null,
+    "option_a": "Red",
+    "option_b": "White",
+    "option_c": "Orange",
+    "ans": "White"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img36.png",
+    "option_a": "Compulsory Turn right ahead",
+    "option_b": "Side road right",
+    "option_c": "Keep right",
+    "ans": "Compulsory Turn right ahead"
+  },
+  {
+    "question": "While driving at night on city roads, keep your head-light on a",
+    "image": null,
+    "option_a": "Low Beam",
+    "option_b": "High Beam",
+    "option_c": "Switch off all Lights",
+    "ans": "Low Beam"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img41.png",
+    "option_a": "Slippery road",
+    "option_b": "Gravel road",
+    "option_c": "No entry for motor car",
+    "ans": "Slippery road"
+  },
+  {
+    "question": "Over speeding",
+    "image": null,
+    "option_a": "is an offence leading  to suspension or cancellation of driving licence",
+    "option_b": "is an offence leading to punishment by fine only",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "Road on which driving in reverse gear is prohibited",
+    "image": null,
+    "option_a": "One-way road",
+    "option_b": "Market Area",
+    "option_c": "State Highway",
+    "ans": "One-way road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img67.png",
+    "option_a": "Requested to stop the vehicle from behind",
+    "option_b": "Allow to pass the vehicle from behind",
+    "option_c": "Request to stop the vehicle from front",
+    "ans": "Allow to pass the vehicle from behind"
+  },
+  {
+    "question": "Unnecessary & repeated use of horn is prohibited under the law",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "There is no law",
+    "ans": "Yes"
+  },
+  {
+    "question": "Vehicles proceeding from opposite direction should be allowed to pass through",
+    "image": null,
+    "option_a": "Your right side",
+    "option_b": "Your left side",
+    "option_c": "The convenient side",
+    "ans": "Your right side"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img75.png",
+    "option_a": "Side road left",
+    "option_b": "Turn left",
+    "option_c": "No left turn",
+    "ans": "Side road left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img58.png",
+    "option_a": "Parking lot – scooters and motor cycle",
+    "option_b": "Scooters and motor cycles prohibited",
+    "option_c": "Scooters and motor cycles repairing",
+    "ans": "Parking lot – scooters and motor cycle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img4.png",
+    "option_a": "No entry",
+    "option_b": "One way",
+    "option_c": "Speed limit ends",
+    "ans": "No entry"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img44.png",
+    "option_a": "Cattle prohibited",
+    "option_b": "Possibility of animal on the road",
+    "option_c": "Vehicles carrying cattle prohibited",
+    "ans": "Possibility of animal on the road"
+  },
+  {
+    "question": "Where the 'Slippery road sign' is seen on the road, the driver shall",
+    "image": null,
+    "option_a": "reduce speed by changing to lower gear",
+    "option_b": "apply brake",
+    "option_c": "proceed in the same speed",
+    "ans": "reduce speed by changing to lower gear"
+  },
+  {
+    "question": "Unnecessary & repeated use of horn is prohibited under the law",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "There is no law",
+    "ans": "Yes"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img23.png",
+    "option_a": "Bullock cart prohibited",
+    "option_b": "Cycle prohibited",
+    "option_c": "All vehicles prohibited",
+    "ans": "Bullock cart prohibited"
+  },
+  {
+    "question": "In case of an accident, if the victim is bleeding under the helmet, you should",
+    "image": null,
+    "option_a": "not try to remove the helmet but call ambulance",
+    "option_b": "remove the helmet  to check  the injury",
+    "option_c": "remove the helmet and call ambulance",
+    "ans": "not try to remove the helmet but call ambulance"
+  },
+  {
+    "question": "While driving, the driver should keep",
+    "image": null,
+    "option_a": "Original driving licence",
+    "option_b": "Colour Xerox copy of driving licence",
+    "option_c": "Certified copy of driving licence",
+    "ans": "Original driving licence"
+  },
+  {
+    "question": "The compulsory safety device in a car to protect passengers in case of accident is",
+    "image": null,
+    "option_a": "Seat belt",
+    "option_b": "Brake pedal",
+    "option_c": "Air bag",
+    "ans": "Seat belt"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img55.png",
+    "option_a": "No through side road",
+    "option_b": "Left turn",
+    "option_c": "Bridge ahead",
+    "ans": "No through side road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img21.png",
+    "option_a": "All Motor Vehicles Prohibited",
+    "option_b": "no entry for cars and motor cycles",
+    "option_c": "Entry allowed for cars and motor vehicles",
+    "ans": "All Motor Vehicles Prohibited"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from skin burn. You should...",
+    "image": null,
+    "option_a": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance",
+    "option_b": "Burst blisters",
+    "option_c": "Remove his cloths stuck to the burns",
+    "ans": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance"
+  },
+  {
+    "question": "To carry pillion rider on a motor cycle",
+    "image": null,
+    "option_a": "the vehicle should  have foot rest, hand grip and sari guard",
+    "option_b": "the vehicle should have side car",
+    "option_c": "the vehicle should have rear view mirror",
+    "ans": "the vehicle should  have foot rest, hand grip and sari guard"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img47.png",
+    "option_a": "Rough road",
+    "option_b": "Slippery road",
+    "option_c": "Falling rocks",
+    "ans": "Falling rocks"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img65.png",
+    "option_a": "Intends to turn right",
+    "option_b": "Request to stop the vehicle coming from opposite direction",
+    "option_c": "Intends to slow down the vehicle",
+    "ans": "Intends to slow down the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img1.png",
+    "option_a": "Stop",
+    "option_b": "No Parking",
+    "option_c": "Hospital ahead",
+    "ans": "Stop"
+  },
+  {
+    "question": "Overtaking is prohibited",
+    "image": null,
+    "option_a": "When the road ahead is not clearly visible",
+    "option_b": "In the night",
+    "option_c": "when the road center is marked with white broken lines",
+    "ans": "When the road ahead is not clearly visible"
+  },
+  {
+    "question": "Drunken driving is",
+    "image": null,
+    "option_a": "allowed in private vehicles",
+    "option_b": "allowed during night time",
+    "option_c": "prohibited in all vehicles",
+    "ans": "prohibited in all vehicles"
+  },
+  {
+    "question": "Documents of Non Transport vehicles to be kept in the vehicle -",
+    "image": null,
+    "option_a": "Registration certificate, PUC, insurance certificate & driving licence",
+    "option_b": "Registration certificate,Insurance Certificate,Tax Token, Driving Licence",
+    "option_c": "Registration Certificate Permit, Trip Sheet",
+    "ans": "Registration certificate, PUC, insurance certificate & driving licence"
+  },
+  {
+    "question": "In case of an accident, if the victim is bleeding under the helmet, you should",
+    "image": null,
+    "option_a": "not try to remove the helmet but call ambulance",
+    "option_b": "remove the helmet  to check  the injury",
+    "option_c": "remove the helmet and call ambulance",
+    "ans": "not try to remove the helmet but call ambulance"
+  },
+  {
+    "question": "If the road is marked with broken white lines, you...",
+    "image": "https://www.rtoexam.com/themes/images/img68.png",
+    "option_a": "shall not change track",
+    "option_b": "can change track if required",
+    "option_c": "shall stop the vehicle",
+    "ans": "can change track if required"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img36.png",
+    "option_a": "Compulsory Turn right ahead",
+    "option_b": "Side road right",
+    "option_c": "Keep right",
+    "ans": "Compulsory Turn right ahead"
+  },
+  {
+    "question": "While you are approaching an intersection where the yellow signal light is blinking, you should",
+    "image": null,
+    "option_a": "As there is no restriction, proceed at the same speed",
+    "option_b": "Stop the vehicle and wait for the green light to appear",
+    "option_c": "Slow down the vehicle and proceed only after ensuring that it is safe to move",
+    "ans": "Slow down the vehicle and proceed only after ensuring that it is safe to move"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img20.png",
+    "option_a": "Compulsory ahead only",
+    "option_b": "One-way",
+    "option_c": "Prohibited in both direction",
+    "ans": "Compulsory ahead only"
+  },
+  {
+    "question": "The Driver of a vehicle extends his right arm with the palm downward and moves the arm upward and downward several times You will understand that",
+    "image": null,
+    "option_a": "He is turning to the left",
+    "option_b": "He is slowing down the vehicle",
+    "option_c": "Allowing to overtake",
+    "ans": "He is slowing down the vehicle"
+  },
+  {
+    "question": "Overtaking is prohibited in following circumstances",
+    "image": null,
+    "option_a": "when it is likely to cause inconvenience or danger to other traffic",
+    "option_b": "when  the vehicle in front is reducing speed",
+    "option_c": "during night",
+    "ans": "when it is likely to cause inconvenience or danger to other traffic"
+  },
+  {
+    "question": "Validity of vehicle insurance is",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 years",
+    "ans": "1 Year"
+  },
+  {
+    "question": "When should you use mobile phone?",
+    "image": null,
+    "option_a": "when the vehicle is running at very  slow speed",
+    "option_b": "when the vehicle is running at medium speed on express highway",
+    "option_c": "when   the vehicle  is parked a side",
+    "ans": "when   the vehicle  is parked a side"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img30.png",
+    "option_a": "Right hair pin bend",
+    "option_b": "Right ascend and descend",
+    "option_c": "Right descends",
+    "ans": "Right hair pin bend"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "When child lock is applied in a car",
+    "image": null,
+    "option_a": "Door can be opened from inside only",
+    "option_b": "Door  can  be opened  from outside only",
+    "option_c": "Door can be opened from both sides",
+    "ans": "Door  can  be opened  from outside only"
+  },
+  {
+    "question": "Zebra lines are meant for",
+    "image": null,
+    "option_a": "stopping vehicle",
+    "option_b": "pedestrians crossing",
+    "option_c": "for giving preference to vehicle",
+    "ans": "pedestrians crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "How does the stopping distance of a vehicle get affected while applying brake during rain?",
+    "image": null,
+    "option_a": "Stopping distance increases",
+    "option_b": "Stopping distance decreases",
+    "option_c": "Does not affect",
+    "ans": "Stopping distance increases"
+  },
+  {
+    "question": "The temperature gauge in the dash board of a car indicates the temperature of",
+    "image": null,
+    "option_a": "the weather Outside the car",
+    "option_b": "inside the car",
+    "option_c": "The engine",
+    "ans": "The engine"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img27.png",
+    "option_a": "Compulsory ahead or turn right",
+    "option_b": "Compulsory ahead  or  turn left",
+    "option_c": "Side road ahead",
+    "ans": "Compulsory ahead or turn right"
+  },
+  {
+    "question": "Unnecessary & repeated use of horn is prohibited under the law",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "There is no law",
+    "ans": "Yes"
+  },
+  {
+    "question": "Abandoning vehicle in a public place causing inconvenience to others or passengers",
+    "image": null,
+    "option_a": "the driving licence is liable to be suspended/can celled",
+    "option_b": "only fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img55.png",
+    "option_a": "No through side road",
+    "option_b": "Left turn",
+    "option_c": "Bridge ahead",
+    "ans": "No through side road"
+  },
+  {
+    "question": "You can overtake a vehicle in front",
+    "image": null,
+    "option_a": "From the right side of that vehicle",
+    "option_b": "Through the left side",
+    "option_c": "Through the left side, if the road is wide",
+    "ans": "From the right side of that vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img5.png",
+    "option_a": "Right turn prohibited",
+    "option_b": "Sharp curve to the right",
+    "option_c": "U-turn prohibited",
+    "ans": "Sharp curve to the right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "The colour of reverse light is",
+    "image": null,
+    "option_a": "Red",
+    "option_b": "White",
+    "option_c": "Orange",
+    "ans": "White"
+  },
+  {
+    "question": "When school buses are stopped for picking up or dropping down students",
+    "image": null,
+    "option_a": "Blow horn and proceed",
+    "option_b": "proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+    "option_c": "No special care is required",
+    "ans": "proceed slowly and cautiously since there is chance of students suddenly crossing the road"
+  },
+  {
+    "question": "Minimum age for getting a licence to drive motor cycle without gear is",
+    "image": null,
+    "option_a": "18 years",
+    "option_b": "21 years",
+    "option_c": "16 years",
+    "ans": "16 years"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img1.png",
+    "option_a": "Stop",
+    "option_b": "No Parking",
+    "option_c": "Hospital ahead",
+    "ans": "Stop"
+  },
+  {
+    "question": "Overtaking when approaching a bend",
+    "image": null,
+    "option_a": "is permissible",
+    "option_b": "not permissible",
+    "option_c": "is permissible with care",
+    "ans": "not permissible"
+  },
+  {
+    "question": "You want to overtake a vehicle near a hospital. You...",
+    "image": null,
+    "option_a": "will blow the horn continuously",
+    "option_b": "will not blow horn",
+    "option_c": "blow the horn only intermittently",
+    "ans": "will not blow horn"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img6.png",
+    "option_a": "Pedestrian crossing",
+    "option_b": "Pedestrians may enter",
+    "option_c": "Pedestrians prohibited",
+    "ans": "Pedestrian crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img20.png",
+    "option_a": "Compulsory ahead only",
+    "option_b": "One-way",
+    "option_c": "Prohibited in both direction",
+    "ans": "Compulsory ahead only"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "A 10 year old child sitting in the front seat of the car should buckle the seat belt?",
+    "image": null,
+    "option_a": "Not  necessary for children",
+    "option_b": "It is Compulsory",
+    "option_c": "Valid only on rear seats",
+    "ans": "It is Compulsory"
+  },
+  {
+    "question": "Drunken driving is",
+    "image": null,
+    "option_a": "allowed in private vehicles",
+    "option_b": "allowed during night time",
+    "option_c": "prohibited in all vehicles",
+    "ans": "prohibited in all vehicles"
+  },
+  {
+    "question": "When should you use mobile phone?",
+    "image": null,
+    "option_a": "when the vehicle is running at very  slow speed",
+    "option_b": "when the vehicle is running at medium speed on express highway",
+    "option_c": "when   the vehicle  is parked a side",
+    "ans": "when   the vehicle  is parked a side"
+  },
+  {
+    "question": "Overtaking is prohibited in the following case",
+    "image": null,
+    "option_a": "State highway",
+    "option_b": "Panchayat roads",
+    "option_c": "Narrow bridge",
+    "ans": "Narrow bridge"
+  },
+  {
+    "question": "Overtaking is prohibited in following circumstances",
+    "image": null,
+    "option_a": "when it is likely to cause inconvenience or danger to other traffic",
+    "option_b": "when  the vehicle in front is reducing speed",
+    "option_c": "during night",
+    "ans": "when it is likely to cause inconvenience or danger to other traffic"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img3.png",
+    "option_a": "Give way",
+    "option_b": "Hospital ahead",
+    "option_c": "Traffic island ahead",
+    "ans": "Give way"
+  },
+  {
+    "question": "While driving, what will you keep in mind?",
+    "image": null,
+    "option_a": "The weather & Road conditions",
+    "option_b": "The traffic around you",
+    "option_c": "Both",
+    "ans": "Both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img20.png",
+    "option_a": "Compulsory ahead only",
+    "option_b": "One-way",
+    "option_c": "Prohibited in both direction",
+    "ans": "Compulsory ahead only"
+  },
+  {
+    "question": "You want to overtake a vehicle near a hospital. You...",
+    "image": null,
+    "option_a": "will blow the horn continuously",
+    "option_b": "will not blow horn",
+    "option_c": "blow the horn only intermittently",
+    "ans": "will not blow horn"
+  },
+  {
+    "question": "If the road is marked with broken white lines, you...",
+    "image": "https://www.rtoexam.com/themes/images/img68.png",
+    "option_a": "shall not change track",
+    "option_b": "can change track if required",
+    "option_c": "shall stop the vehicle",
+    "ans": "can change track if required"
+  },
+  {
+    "question": "The driver of a Auto Rickshaw refusing the offer for journey for the reason that the distance is short",
+    "image": null,
+    "option_a": "can attract suspension/ cancellation of driving licence",
+    "option_b": "only  fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "Parking is prohibited in the following place",
+    "image": null,
+    "option_a": "Entrance of hospital",
+    "option_b": "Left side of the road",
+    "option_c": "Market area",
+    "ans": "Entrance of hospital"
+  },
+  {
+    "question": "Driver of a vehicle may overtake",
+    "image": null,
+    "option_a": "while driving down hill",
+    "option_b": "If the road is not sufficiently wide",
+    "option_c": "When the driver of the vehicle ahead shows the signal to overtake",
+    "ans": "When the driver of the vehicle ahead shows the signal to overtake"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img76.png",
+    "option_a": "Staggered Intersections",
+    "option_b": "Zigzag road",
+    "option_c": "No right and left turn",
+    "ans": "Staggered Intersections"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img32.png",
+    "option_a": "Right reverse bend",
+    "option_b": "Left reverse bend",
+    "option_c": "Turn right and go ahead",
+    "ans": "Right reverse bend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img71.png",
+    "option_a": "Give way",
+    "option_b": "Hospital",
+    "option_c": "Traffic island ahead",
+    "ans": "Hospital"
+  },
+  {
+    "question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+    "image": null,
+    "option_a": "Registration certificate",
+    "option_b": "Tax Token",
+    "option_c": "Fitness",
+    "ans": "Registration certificate"
+  },
+  {
+    "question": "What is the colour scheme for the number plate of a commercial vehicle?",
+    "image": null,
+    "option_a": "Yellow base and black letters",
+    "option_b": "Black base and yellow letters",
+    "option_c": "White base and black letters",
+    "ans": "Yellow base and black letters"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img21.png",
+    "option_a": "All Motor Vehicles Prohibited",
+    "option_b": "no entry for cars and motor cycles",
+    "option_c": "Entry allowed for cars and motor vehicles",
+    "ans": "All Motor Vehicles Prohibited"
+  },
+  {
+    "question": "Where a blind person crosses the road holding White Cane",
+    "image": null,
+    "option_a": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+    "option_b": "Blow the horn and proceed",
+    "option_c": "Slow down and proceed with caution",
+    "ans": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img12.png",
+    "option_a": "Narrow road ahead",
+    "option_b": "Narrow bridge ahead",
+    "option_c": "Roads on both sides ahead",
+    "ans": "Narrow road ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img72.png",
+    "option_a": "U-turn prohibited",
+    "option_b": "Right turn prohibited",
+    "option_c": "Overtaking through left prohibited",
+    "ans": "Right turn prohibited"
+  },
+  {
+    "question": "If a person in charge of an animal (apprehending that the animal may become unmanageable,) request to stop a vehicle",
+    "image": null,
+    "option_a": "The driver shall stop the vehicle",
+    "option_b": "The driver shall proceed, blowing the horns",
+    "option_c": "The driver shall reduce the speed",
+    "ans": "The driver shall stop the vehicle"
+  },
+  {
+    "question": "Boarding in or alighting from a vehicle while in motion",
+    "image": null,
+    "option_a": "Permitted in bus",
+    "option_b": "permitted in auto-rickshaw",
+    "option_c": "prohibited  in all vehicles",
+    "ans": "prohibited  in all vehicles"
+  },
+  {
+    "question": "While driving, what will you keep in mind?",
+    "image": null,
+    "option_a": "The weather & Road conditions",
+    "option_b": "The traffic around you",
+    "option_c": "Both",
+    "ans": "Both"
+  },
+  {
+    "question": "Parking is prohibited in the following case",
+    "image": null,
+    "option_a": "road side",
+    "option_b": "where parking is permitted",
+    "option_c": "near traffic light",
+    "ans": "near traffic light"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img6.png",
+    "option_a": "Pedestrian crossing",
+    "option_b": "Pedestrians may enter",
+    "option_c": "Pedestrians prohibited",
+    "ans": "Pedestrian crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img23.png",
+    "option_a": "Bullock cart prohibited",
+    "option_b": "Cycle prohibited",
+    "option_c": "All vehicles prohibited",
+    "ans": "Bullock cart prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img81.png",
+    "option_a": "One-way sign",
+    "option_b": "Vehicles prohibited  in both direction",
+    "option_c": "Overtaking prohibited",
+    "ans": "One-way sign"
+  },
+  {
+    "question": "A 10 year old child sitting in the front seat of the car should buckle the seat belt?",
+    "image": null,
+    "option_a": "Not  necessary for children",
+    "option_b": "It is Compulsory",
+    "option_c": "Valid only on rear seats",
+    "ans": "It is Compulsory"
+  },
+  {
+    "question": "The following sign represent",
+    "image": "https://www.rtoexam.com/themes/images/img62.png",
+    "option_a": "Lane changing is permitted",
+    "option_b": "Change the line with caution",
+    "option_c": "Lane changing is prohibited",
+    "ans": "Change the line with caution"
+  },
+  {
+    "question": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should",
+    "image": null,
+    "option_a": "Sound horn and proceed",
+    "option_b": "Slow down, sound horn and pass",
+    "option_c": "Stop  the vehicle  and wait   till   the pedestrians cross  the  road and  then proceed",
+    "ans": "Stop  the vehicle  and wait   till   the pedestrians cross  the  road and  then proceed"
+  },
+  {
+    "question": "What is the Validity of Pollution Under Control Certificate?",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 Years",
+    "ans": "6 months"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img44.png",
+    "option_a": "Cattle prohibited",
+    "option_b": "Possibility of animal on the road",
+    "option_c": "Vehicles carrying cattle prohibited",
+    "ans": "Possibility of animal on the road"
+  },
+  {
+    "question": "Signal to take U-turn is",
+    "image": null,
+    "option_a": "Left turn signal",
+    "option_b": "Right turn signal",
+    "option_c": "Slow down signal",
+    "ans": "Right turn signal"
+  },
+  {
+    "question": "Maximum permissible speed of a motor cycle",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "50 km/hr",
+    "option_c": "60 km/hr",
+    "ans": "50 km/hr"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img22.png",
+    "option_a": "Trucks prohibited",
+    "option_b": "Bus prohibited",
+    "option_c": "Heavy vehicles",
+    "ans": "Trucks prohibited"
+  },
+  {
+    "question": "While parking the vehicle",
+    "image": null,
+    "option_a": "Vehicle should  be engaged in gear",
+    "option_b": "Parking brake should  be applied",
+    "option_c": "Only hazard (parking) light should be applied",
+    "ans": "Parking brake should  be applied"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from a serious back injury, you should,",
+    "image": null,
+    "option_a": "Lift the victim and take to a safe place",
+    "option_b": "not move the victim and try to warn other traffic about the accident",
+    "option_c": "raise his legs to check the injury",
+    "ans": "not move the victim and try to warn other traffic about the accident"
+  },
+  {
+    "question": "While you are approaching an intersection where the yellow signal light is blinking, you should",
+    "image": null,
+    "option_a": "As there is no restriction, proceed at the same speed",
+    "option_b": "Stop the vehicle and wait for the green light to appear",
+    "option_c": "Slow down the vehicle and proceed only after ensuring that it is safe to move",
+    "ans": "Slow down the vehicle and proceed only after ensuring that it is safe to move"
+  },
+  {
+    "question": "You can apply for a permanent driving licence after",
+    "image": null,
+    "option_a": "30  days from the date of issue of learner’s licence",
+    "option_b": "60 days from the date of issue of learner’s licence",
+    "option_c": "180 days from the date of issue of learner’s licence",
+    "ans": "30  days from the date of issue of learner’s licence"
+  },
+  {
+    "question": "While a vehicle entering a main road from a branch road, the driver shall give preference",
+    "image": null,
+    "option_a": "To  the vehicles coming  from the left",
+    "option_b": "To the vehicles coming  from the right",
+    "option_c": "To all vehicles proceeding along the main road",
+    "ans": "To the vehicles coming  from the right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img50.png",
+    "option_a": "Steep ascend",
+    "option_b": "Steep descend",
+    "option_c": "Slippery road",
+    "ans": "Steep descend"
+  },
+  {
+    "question": "While driving, the driver should keep",
+    "image": null,
+    "option_a": "Original driving licence",
+    "option_b": "Colour Xerox copy of driving licence",
+    "option_c": "Certified copy of driving licence",
+    "ans": "Original driving licence"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img11.png",
+    "option_a": "Road closed",
+    "option_b": "no parking",
+    "option_c": "End of speed restriction",
+    "ans": "End of speed restriction"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from skin burn. You should...",
+    "image": null,
+    "option_a": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance",
+    "option_b": "Burst blisters",
+    "option_c": "Remove his cloths stuck to the burns",
+    "ans": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance"
+  },
+  {
+    "question": "Driving a vehicle without the brake light is",
+    "image": null,
+    "option_a": "Valid  for  two wheeler",
+    "option_b": "An offence",
+    "option_c": "Valid for trucks only",
+    "ans": "An offence"
+  },
+  {
+    "question": "Vehicles proceeding from opposite direction should be allowed to pass through",
+    "image": null,
+    "option_a": "Your right side",
+    "option_b": "Your left side",
+    "option_c": "The convenient side",
+    "ans": "Your right side"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img44.png",
+    "option_a": "Cattle prohibited",
+    "option_b": "Possibility of animal on the road",
+    "option_c": "Vehicles carrying cattle prohibited",
+    "ans": "Possibility of animal on the road"
+  },
+  {
+    "question": "Where a blind person crosses the road holding White Cane",
+    "image": null,
+    "option_a": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+    "option_b": "Blow the horn and proceed",
+    "option_c": "Slow down and proceed with caution",
+    "ans": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle"
+  },
+  {
+    "question": "The driver of a Auto Rickshaw refusing the offer for journey for the reason that the distance is short",
+    "image": null,
+    "option_a": "can attract suspension/ cancellation of driving licence",
+    "option_b": "only  fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "You are approaching a narrow bridge, another vehicle is about to enter the bridge from opposite side, you should",
+    "image": null,
+    "option_a": "Increase the speed and try to cross the bridge as fast as possible",
+    "option_b": "Put on the head light and pass the bridge",
+    "option_c": "Wait till the other vehicle crosses the bridge and then proceed",
+    "ans": "Wait till the other vehicle crosses the bridge and then proceed"
+  },
+  {
+    "question": "If a person in charge of an animal (apprehending that the animal may become unmanageable,) request to stop a vehicle",
+    "image": null,
+    "option_a": "The driver shall stop the vehicle",
+    "option_b": "The driver shall proceed, blowing the horns",
+    "option_c": "The driver shall reduce the speed",
+    "ans": "The driver shall stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img75.png",
+    "option_a": "Side road left",
+    "option_b": "Turn left",
+    "option_c": "No left turn",
+    "ans": "Side road left"
+  },
+  {
+    "question": "Red traffic light indicates",
+    "image": null,
+    "option_a": "vehicle can proceed with caution",
+    "option_b": "stop the vehicle",
+    "option_c": "slow down",
+    "ans": "stop the vehicle"
+  },
+  {
+    "question": "What is the Validity of Pollution Under Control Certificate?",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 Years",
+    "ans": "6 months"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img35.png",
+    "option_a": "Side road left",
+    "option_b": "Speed limit",
+    "option_c": "Axle load limit",
+    "ans": "Axle load limit"
+  },
+  {
+    "question": "In a road without footpath, the pedestrians",
+    "image": null,
+    "option_a": "Should walk on the left side of the road",
+    "option_b": "Should walk on the right side of  the road",
+    "option_c": "May walk on either side of the road",
+    "ans": "Should walk on the right side of  the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img77.png",
+    "option_a": "Cross road ahead",
+    "option_b": "Major road ahead",
+    "option_c": "First aid",
+    "ans": "Major road ahead"
+  },
+  {
+    "question": "While turning to the left, the driver of a two wheeler shall",
+    "image": null,
+    "option_a": "Extend his left hand  towards left",
+    "option_b": "Not show hand signal",
+    "option_c": "Show left turn signal with his right hand or signal by indicator",
+    "ans": "Show left turn signal with his right hand or signal by indicator"
+  },
+  {
+    "question": "In case of an accident, which knowledge can be helpful to you to save human life?",
+    "image": null,
+    "option_a": "Vehicle maintenance",
+    "option_b": "First-Aid",
+    "option_c": "Legal",
+    "ans": "First-Aid"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img42.png",
+    "option_a": "Loose gravel",
+    "option_b": "Slippery road",
+    "option_c": "No entry for motor car",
+    "ans": "Loose gravel"
+  },
+  {
+    "question": "How driver can prevent fatigue while driving?",
+    "image": null,
+    "option_a": "By drinking alcohol",
+    "option_b": "By resting during the journey at every  two hours",
+    "option_c": "By listening to the music",
+    "ans": "By resting during the journey at every  two hours"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img50.png",
+    "option_a": "Steep ascend",
+    "option_b": "Steep descend",
+    "option_c": "Slippery road",
+    "ans": "Steep descend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img4.png",
+    "option_a": "No entry",
+    "option_b": "One way",
+    "option_c": "Speed limit ends",
+    "ans": "No entry"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img64.png",
+    "option_a": "Intends to turn left",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop all other vehicles",
+    "ans": "Intends to turn left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img30.png",
+    "option_a": "Right hair pin bend",
+    "option_b": "Right ascend and descend",
+    "option_c": "Right descends",
+    "ans": "Right hair pin bend"
+  },
+  {
+    "question": "You hold a learners licence for motor cycle...",
+    "image": null,
+    "option_a": "You will drive when the traffic is less",
+    "option_b": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies",
+    "option_c": "You will carry any other person on the motor cycle",
+    "ans": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies"
+  },
+  {
+    "question": "Red traffic light indicates",
+    "image": null,
+    "option_a": "vehicle can proceed with caution",
+    "option_b": "stop the vehicle",
+    "option_c": "slow down",
+    "ans": "stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img58.png",
+    "option_a": "Parking lot – scooters and motor cycle",
+    "option_b": "Scooters and motor cycles prohibited",
+    "option_c": "Scooters and motor cycles repairing",
+    "ans": "Parking lot – scooters and motor cycle"
+  },
+  {
+    "question": "On a road designated as one way",
+    "image": null,
+    "option_a": "Parking  is prohibited",
+    "option_b": "Overtaking is prohibited",
+    "option_c": "Should not drive in reverse gear",
+    "ans": "Should not drive in reverse gear"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img78.png",
+    "option_a": "Guarded railway crossing",
+    "option_b": "Unguarded railway crossing",
+    "option_c": "Unguarded railway crossing 200 mtrs Ahead",
+    "ans": "Guarded railway crossing"
+  },
+  {
+    "question": "How driver can prevent fatigue while driving?",
+    "image": null,
+    "option_a": "By drinking alcohol",
+    "option_b": "By resting during the journey at every  two hours",
+    "option_c": "By listening to the music",
+    "ans": "By resting during the journey at every  two hours"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img35.png",
+    "option_a": "Side road left",
+    "option_b": "Speed limit",
+    "option_c": "Axle load limit",
+    "ans": "Axle load limit"
+  },
+  {
+    "question": "Minimum age required to procure a commercial driving licence",
+    "image": null,
+    "option_a": "18 years",
+    "option_b": "21 Years",
+    "option_c": "20 Years",
+    "ans": "20 Years"
+  },
+  {
+    "question": "In case of an accident, which knowledge can be helpful to you to save human life?",
+    "image": null,
+    "option_a": "Vehicle maintenance",
+    "option_b": "First-Aid",
+    "option_c": "Legal",
+    "ans": "First-Aid"
+  },
+  {
+    "question": "Driver of a motor vehicle shall drive through",
+    "image": null,
+    "option_a": "The right side of the road",
+    "option_b": "The left side of the road",
+    "option_c": "The center of the road",
+    "ans": "The left side of the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img2.png",
+    "option_a": "Keep left",
+    "option_b": "There is no road to the left",
+    "option_c": "Compulsory keep left",
+    "ans": "Keep left"
+  },
+  {
+    "question": "Using unregistered vehicle in public place is",
+    "image": null,
+    "option_a": "Illegal",
+    "option_b": "Legal",
+    "option_c": "Legal if there is urgency",
+    "ans": "Illegal"
+  },
+  {
+    "question": "When child lock is applied in a car",
+    "image": null,
+    "option_a": "Door can be opened from inside only",
+    "option_b": "Door  can  be opened  from outside only",
+    "option_c": "Door can be opened from both sides",
+    "ans": "Door  can  be opened  from outside only"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img26.png",
+    "option_a": "Drive  the vehicle not exceeding 50 km/hr",
+    "option_b": "Drive the vehicle at 50 km/hr",
+    "option_c": "Drive the vehicle exceeding 50 km/hr",
+    "ans": "Drive  the vehicle not exceeding 50 km/hr"
+  },
+  {
+    "question": "It is compulsory for a driver to wear uniform while driving",
+    "image": null,
+    "option_a": "Private Vehicle",
+    "option_b": "All Commercial Vehicle",
+    "option_c": "All Vehicles",
+    "ans": "All Commercial Vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img14.png",
+    "option_a": "Entry through right side prohibited",
+    "option_b": "Entry through left prohibited",
+    "option_c": "Overtaking prohibited",
+    "ans": "Overtaking prohibited"
+  },
+  {
+    "question": "Wearing helmet by a woman while driving two wheeler is",
+    "image": null,
+    "option_a": "Compulsory by law",
+    "option_b": "Not compulsory by law",
+    "option_c": "It is up to their choice to wear",
+    "ans": "Compulsory by law"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img17.png",
+    "option_a": "Sound horn compulsory",
+    "option_b": "Sound horn continuously",
+    "option_c": "Horn prohibited",
+    "ans": "Sound horn compulsory"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img64.png",
+    "option_a": "Intends to turn left",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop all other vehicles",
+    "ans": "Intends to turn left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img56.png",
+    "option_a": "Ferry",
+    "option_b": "No road ahead",
+    "option_c": "Water on the road",
+    "ans": "Ferry"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img42.png",
+    "option_a": "Loose gravel",
+    "option_b": "Slippery road",
+    "option_c": "No entry for motor car",
+    "ans": "Loose gravel"
+  },
+  {
+    "question": "You can talk on mobile while driving any vehicle",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "You can talk after slowing down your vehicle",
+    "ans": "No"
+  },
+  {
+    "question": "What is the colour scheme for the number plate of a commercial vehicle?",
+    "image": null,
+    "option_a": "Yellow base and black letters",
+    "option_b": "Black base and yellow letters",
+    "option_c": "White base and black letters",
+    "ans": "Yellow base and black letters"
+  },
+  {
+    "question": "A 10 year old child sitting in the front seat of the car should buckle the seat belt?",
+    "image": null,
+    "option_a": "Not  necessary for children",
+    "option_b": "It is Compulsory",
+    "option_c": "Valid only on rear seats",
+    "ans": "It is Compulsory"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img65.png",
+    "option_a": "Intends to turn right",
+
+
+
+
+
+    "option_b": "Request to stop the vehicle coming from opposite direction",
+    "option_c": "Intends to slow down the vehicle",
+    "ans": "Intends to slow down the vehicle"
+  },
+  {
+    "question": "More than two persons on a two wheeler is",
+    "image": null,
+    "option_a": "Allowed in unavoidable circumstances",
+    "option_b": "Violation of law",
+    "option_c": "Allowed when the traffic is less",
+    "ans": "Violation of law"
+  },
+  {
+    "question": "When a vehicle is involved in an accident causing injury to any person",
+    "image": null,
+    "option_a": "Take the vehicle to the nearest police station and report the accident",
+    "option_b": "Stop the vehicle and report to the police station",
+    "option_c": "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24",
+    "ans": "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from skin burn. You should...",
+    "image": null,
+    "option_a": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance",
+    "option_b": "Burst blisters",
+    "option_c": "Remove his cloths stuck to the burns",
+    "ans": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance"
+  },
+  {
+    "question": "Overtaking is prohibited in the following case",
+    "image": null,
+    "option_a": "State highway",
+    "option_b": "Panchayat roads",
+    "option_c": "Narrow bridge",
+    "ans": "Narrow bridge"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img49.png",
+    "option_a": "Steep ascend",
+    "option_b": "Steep descend",
+    "option_c": "Slippery road",
+    "ans": "Steep ascend"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img76.png",
+    "option_a": "Staggered Intersections",
+    "option_b": "Zigzag road",
+    "option_c": "No right and left turn",
+    "ans": "Staggered Intersections"
+  },
+  {
+    "question": "Zebra lines are meant for",
+    "image": null,
+    "option_a": "stopping vehicle",
+    "option_b": "pedestrians crossing",
+    "option_c": "for giving preference to vehicle",
+    "ans": "pedestrians crossing"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img45.png",
+    "option_a": "School ahead",
+    "option_b": "Pedestrians crossing",
+    "option_c": "Pedestrians crossing prohibited",
+    "ans": "School ahead"
+  },
+  {
+    "question": "While moving to the left lane to stop, you should",
+    "image": null,
+    "option_a": "Lit  left  side indicator",
+    "option_b": "Lit Right side indicator",
+    "option_c": "Lit Parking light",
+    "ans": "Lit  left  side indicator"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img34.png",
+    "option_a": "Y-inter section left",
+    "option_b": "Y-inter section right",
+    "option_c": "Y-inter section",
+    "ans": "Y-inter section"
+  },
+  {
+    "question": "While you are driving on gradient roads you should",
+    "image": null,
+    "option_a": "Give precedence  to the   vehicles coming  down hill",
+    "option_b": "Give precedence to the vehicles going uphill",
+    "option_c": "Give precedence to the vehicles carrying heavy load",
+    "ans": "Give precedence to the vehicles going uphill"
+  },
+  {
+    "question": "Yellow continuous line marked at the middle of the road indicates",
+    "image": "https://www.rtoexam.com/themes/images/img82.png",
+    "option_a": "Overtaking permitted",
+    "option_b": "Crossing yellow line is prohibited",
+    "option_c": "Driver can go on the other side of this lane",
+    "ans": "Crossing yellow line is prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img5.png",
+    "option_a": "Right turn prohibited",
+    "option_b": "Sharp curve to the right",
+    "option_c": "U-turn prohibited",
+    "ans": "Sharp curve to the right"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img60.png",
+    "option_a": "No entry for private cars",
+    "option_b": "Parking lot – Taxis",
+    "option_c": "Parking for police vehicles",
+    "ans": "Parking lot – Taxis"
+  },
+  {
+    "question": "Maximum permissible speed of a motor cycle",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "50 km/hr",
+    "option_c": "60 km/hr",
+    "ans": "50 km/hr"
+  },
+  {
+    "question": "ABC in first aid means",
+    "image": null,
+    "option_a": "Attentive, Breath, Contact",
+    "option_b": "Airway, Breathing, Circulation",
+    "option_c": "Accelerator, Brake, Clutch",
+    "ans": "Airway, Breathing, Circulation"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img16.png",
+    "option_a": "May turn to left",
+    "option_b": "Compulsory go ahead or turn left",
+    "option_c": "Side road left",
+    "ans": "Compulsory go ahead or turn left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img76.png",
+    "option_a": "Staggered Intersections",
+    "option_b": "Zigzag road",
+    "option_c": "No right and left turn",
+    "ans": "Staggered Intersections"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img56.png",
+    "option_a": "Ferry",
+    "option_b": "No road ahead",
+    "option_c": "Water on the road",
+    "ans": "Ferry"
+  },
+  {
+    "question": "In a road without footpath, the pedestrians",
+    "image": null,
+    "option_a": "Should walk on the left side of the road",
+    "option_b": "Should walk on the right side of  the road",
+    "option_c": "May walk on either side of the road",
+    "ans": "Should walk on the right side of  the road"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img69.png",
+    "option_a": "Stop",
+    "option_b": "No Parking",
+    "option_c": "Hospital ahead",
+    "ans": "No Parking"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img60.png",
+    "option_a": "No entry for private cars",
+    "option_b": "Parking lot – Taxis",
+    "option_c": "Parking for police vehicles",
+    "ans": "Parking lot – Taxis"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img30.png",
+    "option_a": "Right hair pin bend",
+    "option_b": "Right ascend and descend",
+    "option_c": "Right descends",
+    "ans": "Right hair pin bend"
+  },
+  {
+    "question": "Overtaking is prohibited",
+    "image": null,
+    "option_a": "When the road ahead is not clearly visible",
+    "option_b": "In the night",
+    "option_c": "when the road center is marked with white broken lines",
+    "ans": "When the road ahead is not clearly visible"
+  },
+  {
+    "question": "Parking is prohibited in the following place",
+    "image": null,
+    "option_a": "blocking a fire hydrant",
+    "option_b": "near a  public well",
+    "option_c": "left side of the road",
+    "ans": "blocking a fire hydrant"
+  },
+  {
+    "question": "While you are driving with the head light in high beam during night, a vehicle approaches from opposite direction, you will",
+    "image": null,
+    "option_a": "Proceed keeping to the left",
+    "option_b": "Put the head light in dim and bright alternatively, several times",
+    "option_c": "Dim the head light till the vehicle passed",
+    "ans": "Dim the head light till the vehicle passed"
+  },
+  {
+    "question": "While turning to the left, the driver of a two wheeler shall",
+    "image": null,
+    "option_a": "Extend his left hand  towards left",
+    "option_b": "Not show hand signal",
+    "option_c": "Show left turn signal with his right hand or signal by indicator",
+    "ans": "Show left turn signal with his right hand or signal by indicator"
+  },
+  {
+    "question": "Yellow continuous line marked at the middle of the road indicates",
+    "image": "https://www.rtoexam.com/themes/images/img82.png",
+    "option_a": "Overtaking permitted",
+    "option_b": "Crossing yellow line is prohibited",
+    "option_c": "Driver can go on the other side of this lane",
+    "ans": "Crossing yellow line is prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img48.png",
+    "option_a": "Bridge ahead",
+    "option_b": "Ferry",
+    "option_c": "Light Refreshment ahead",
+    "ans": "Light Refreshment ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img81.png",
+    "option_a": "One-way sign",
+    "option_b": "Vehicles prohibited  in both direction",
+    "option_c": "Overtaking prohibited",
+    "ans": "One-way sign"
+  },
+  {
+    "question": "Zebra lines are meant for",
+    "image": null,
+    "option_a": "stopping vehicle",
+    "option_b": "pedestrians crossing",
+    "option_c": "for giving preference to vehicle",
+    "ans": "pedestrians crossing"
+  },
+  {
+    "question": "Abandoning vehicle in a public place causing inconvenience to others or passengers",
+    "image": null,
+    "option_a": "the driving licence is liable to be suspended/can celled",
+    "option_b": "only fine is attracted",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "You can talk on mobile while driving any vehicle",
+    "image": null,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "You can talk after slowing down your vehicle",
+    "ans": "No"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from a serious back injury, you should,",
+    "image": null,
+    "option_a": "Lift the victim and take to a safe place",
+    "option_b": "not move the victim and try to warn other traffic about the accident",
+    "option_c": "raise his legs to check the injury",
+    "ans": "not move the victim and try to warn other traffic about the accident"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img54.png",
+    "option_a": "Barrier ahead",
+    "option_b": "Railway cross ahead",
+    "option_c": "Weighbridge ahead",
+    "ans": "Barrier ahead"
+  },
+  {
+    "question": "Yellow continuous line marked at the middle of the road indicates",
+    "image": null,
+    "option_a": "Overtaking permitted",
+    "option_b": "Crossing yellow line is prohibited",
+    "option_c": "Driver can go on the other side of this lane",
+    "ans": "Crossing yellow line is prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img51.png",
+    "option_a": "At the Narrow road ahead",
+    "option_b": "On Y- intersection",
+    "option_c": "Road widens ahead",
+    "ans": "Road widens ahead"
+  },
+  {
+    "question": "You can overtake a vehicle in front",
+    "image": null,
+    "option_a": "From the right side of that vehicle",
+    "option_b": "Through the left side",
+    "option_c": "Through the left side, if the road is wide",
+    "ans": "From the right side of that vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "Minimum age for getting a licence to drive motor cycle without gear is",
+    "image": null,
+    "option_a": "18 years",
+    "option_b": "21 years",
+    "option_c": "16 years",
+    "ans": "16 years"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img76.png",
+    "option_a": "Staggered Intersections",
+    "option_b": "Zigzag road",
+    "option_c": "No right and left turn",
+    "ans": "Staggered Intersections"
+  },
+  {
+    "question": "The compulsory safety device in a car to protect passengers in case of accident is",
+    "image": null,
+    "option_a": "Seat belt",
+    "option_b": "Brake pedal",
+    "option_c": "Air bag",
+    "ans": "Seat belt"
+  },
+  {
+    "question": "To be helpful to an unconscious person in case of an accident, you should,",
+    "image": null,
+    "option_a": "loosen his clothes",
+    "option_b": "not let people stand nearby, ensure free supply of air and in winter season wrap blanket around the body",
+    "option_c": "do both",
+    "ans": "do both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img65.png",
+    "option_a": "Intends to turn right",
+    "option_b": "Request to stop the vehicle coming from opposite direction",
+    "option_c": "Intends to slow down the vehicle",
+    "ans": "Intends to slow down the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img80.png",
+    "option_a": "No through road",
+    "option_b": "Bump ahead",
+    "option_c": "Road repairing work going on",
+    "ans": "No through road"
+  },
+  {
+    "question": "Maximum permissible speed of a motor cycle",
+    "image": null,
+    "option_a": "No limit",
+    "option_b": "50 km/hr",
+    "option_c": "60 km/hr",
+    "ans": "50 km/hr"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img54.png",
+    "option_a": "Barrier ahead",
+    "option_b": "Railway cross ahead",
+    "option_c": "Weighbridge ahead",
+    "ans": "Barrier ahead"
+  },
+  {
+    "question": "A driving license issued by RTO is valid",
+    "image": null,
+    "option_a": "Throughout the country",
+    "option_b": "In that particular state only",
+    "option_c": "In that particular district only",
+    "ans": "Throughout the country"
+  },
+  {
+    "question": "The average pulse rate of an adult is",
+    "image": null,
+    "option_a": "50 per minute",
+    "option_b": "70 per minute",
+    "option_c": "100 per minute",
+    "ans": "70 per minute"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img18.png",
+    "option_a": "Road to the right in front",
+    "option_b": "Compulsory turn right",
+    "option_c": "Turn to right prohibited",
+    "ans": "Road to the right in front"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img37.png",
+    "option_a": "Turn right",
+    "option_b": "Turn left",
+    "option_c": "Round about",
+    "ans": "Round about"
+  },
+  {
+    "question": "Validity of vehicle insurance is",
+    "image": null,
+    "option_a": "6 months",
+    "option_b": "1 Year",
+    "option_c": "2 years",
+    "ans": "1 Year"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from skin burn. You should...",
+    "image": null,
+    "option_a": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance",
+    "option_b": "Burst blisters",
+    "option_c": "Remove his cloths stuck to the burns",
+    "ans": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img22.png",
+    "option_a": "Trucks prohibited",
+    "option_b": "Bus prohibited",
+    "option_c": "Heavy vehicles",
+    "ans": "Trucks prohibited"
+  },
+  {
+    "question": "On a road designated as one way",
+    "image": null,
+    "option_a": "Parking  is prohibited",
+    "option_b": "Overtaking is prohibited",
+    "option_c": "Should not drive in reverse gear",
+    "ans": "Should not drive in reverse gear"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img11.png",
+    "option_a": "Road closed",
+    "option_b": "no parking",
+    "option_c": "End of speed restriction",
+    "ans": "End of speed restriction"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img77.png",
+    "option_a": "Cross road ahead",
+    "option_b": "Major road ahead",
+    "option_c": "First aid",
+    "ans": "Major road ahead"
+  },
+  {
+    "question": "Over speeding",
+    "image": null,
+    "option_a": "is an offence leading  to suspension or cancellation of driving licence",
+    "option_b": "is an offence leading to punishment by fine only",
+    "option_c": "May both",
+    "ans": "May both"
+  },
+  {
+    "question": "In a road without footpath, the pedestrians",
+    "image": null,
+    "option_a": "Should walk on the left side of the road",
+    "option_b": "Should walk on the right side of  the road",
+    "option_c": "May walk on either side of the road",
+    "ans": "Should walk on the right side of  the road"
+  },
+  {
+    "question": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should",
+    "image": null,
+    "option_a": "Sound horn and proceed",
+    "option_b": "Slow down, sound horn and pass",
+    "option_c": "Stop  the vehicle  and wait   till   the pedestrians cross  the  road and  then proceed",
+    "ans": "Stop  the vehicle  and wait   till   the pedestrians cross  the  road and  then proceed"
+  },
+  {
+    "question": "Incorrect gear shifting may lead to",
+    "image": null,
+    "option_a": "Damage on gear box",
+    "option_b": "Higher fuel consumption",
+    "option_c": "Both",
+    "ans": "Both"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img69.png",
+    "option_a": "Stop",
+    "option_b": "No Parking",
+    "option_c": "Hospital ahead",
+    "ans": "No Parking"
+  },
+  {
+    "question": "Vehicles proceeding from opposite direction should be allowed to pass through",
+    "image": null,
+    "option_a": "Your right side",
+    "option_b": "Your left side",
+    "option_c": "The convenient side",
+    "ans": "Your right side"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img2.png",
+    "option_a": "Keep left",
+    "option_b": "There is no road to the left",
+    "option_c": "Compulsory keep left",
+    "ans": "Keep left"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img12.png",
+    "option_a": "Narrow road ahead",
+    "option_b": "Narrow bridge ahead",
+    "option_c": "Roads on both sides ahead",
+    "ans": "Narrow road ahead"
+  },
+  {
+    "question": "When should you use mobile phone?",
+    "image": null,
+    "option_a": "when the vehicle is running at very  slow speed",
+    "option_b": "when the vehicle is running at medium speed on express highway",
+    "option_c": "when   the vehicle  is parked a side",
+    "ans": "when   the vehicle  is parked a side"
+  },
+  {
+    "question": "You hold a learners licence for motor cycle...",
+    "image": null,
+    "option_a": "You will drive when the traffic is less",
+    "option_b": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies",
+    "option_c": "You will carry any other person on the motor cycle",
+    "ans": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies"
+  },
+  {
+    "question": "If the road is marked with broken white lines, you...",
+    "image": "https://www.rtoexam.com/themes/images/img68.png",
+    "option_a": "shall not change track",
+    "option_b": "can change track if required",
+    "option_c": "shall stop the vehicle",
+    "ans": "can change track if required"
+  },
+  {
+    "question": "A 10 year old child sitting in the front seat of the car should buckle the seat belt?",
+    "image": null,
+    "option_a": "Not  necessary for children",
+    "option_b": "It is Compulsory",
+    "option_c": "Valid only on rear seats",
+    "ans": "It is Compulsory"
+  },
+  {
+    "question": "Type of horn permitted",
+    "image": null,
+    "option_a": "Air-horn",
+    "option_b": "Multi-toned horn",
+    "option_c": "Electric horn",
+    "ans": "Electric horn"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img59.png",
+    "option_a": "Parking lot – auto rickshaws",
+    "option_b": "Auto rickshaws prohibited",
+    "option_c": "Auto rickshaws repairing",
+    "ans": "Parking lot – auto rickshaws"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img15.png",
+    "option_a": "Cross road ahead",
+    "option_b": "No entry",
+    "option_c": "Hospital",
+    "ans": "Cross road ahead"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img66.png",
+    "option_a": "Intends to go straight",
+    "option_b": "Intends to stop the vehicle",
+    "option_c": "Intends to turn right",
+    "ans": "Intends to stop the vehicle"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img43.png",
+    "option_a": "Cycle crossing",
+    "option_b": "Cycle crossing prohibited",
+    "option_c": "No entry for cycles",
+    "ans": "Cycle crossing"
+  },
+  {
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+    "image": null,
+    "option_a": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+    "option_b": "Sound horn and cross the track as fast as possible",
+    "option_c": "Wait till the train passes",
+    "ans": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side"
+  },
+  {
+    "question": "While parking your vehicle at night you should",
+    "image": null,
+    "option_a": "Apply parking brake",
+    "option_b": "Turn parking lights on",
+    "option_c": "Apply both",
+    "ans": "Apply both"
+  },
+  {
+    "question": "In case of an accident, someone is suffering from a serious back injury, you should,",
+    "image": null,
+    "option_a": "Lift the victim and take to a safe place",
+    "option_b": "not move the victim and try to warn other traffic about the accident",
+    "option_c": "raise his legs to check the injury",
+    "ans": "not move the victim and try to warn other traffic about the accident"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img21.png",
+    "option_a": "All Motor Vehicles Prohibited",
+    "option_b": "no entry for cars and motor cycles",
+    "option_c": "Entry allowed for cars and motor vehicles",
+    "ans": "All Motor Vehicles Prohibited"
+  },
+  {
+    "question": "The following sign represents",
+    "image": "https://www.rtoexam.com/themes/images/img64.png",
+    "option_a": "Intends to turn left",
+    "option_b": "Intends to turn right",
+    "option_c": "Request to stop all other vehicles",
+    "ans": "Intends to turn left"
+  },
+  {
+    "question": "A driving license issued by RTO is valid",
+    "image": null,
+    "option_a": "Throughout the country",
+    "option_b": "In that particular state only",
+    "option_c": "In that particular district only",
+    "ans": "Throughout the country"
+  }
+]
